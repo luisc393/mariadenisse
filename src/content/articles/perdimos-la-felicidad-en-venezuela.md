@@ -1,0 +1,20 @@
+---
+title: "Have We Lost Our Happiness in Venezuela?"
+libroEN: true
+---
+
+If we reason with purely human arguments, it is a bit hard to understand how we Venezuelans can feel happy in Venezuela today. But it is a reality. I am very happy here, with my thousands of problems. And I know a great many people, with problems worse than mine, who are also very happy. We are happy in this corner of the world, at this moment in our history, with the problems we are living through and fighting to solve.
+
+If we look beyond the purely human, we could say that many Venezuelans are facing this terrible reality with great faith and a supernatural outlook. Every Sunday when I go to Mass and see the crowd packing the church (old people, adults, young people, children…), I experience what it means to feel happiness in hard times. After Mass we stand around in the plaza talking about what we are going through, and we encourage one another not to lose heart in the struggle. We tell each other over and over: we have to pray hard, be brave and keep fighting to the end, because with hard work and God’s help, anything is possible! And we leave cheerful and content, with the children hanging around our necks, to get ready for the Sunday family lunch, where we laugh, cry, sing, dance, release tension… and gather strength for whatever may come next week.
+
+You can see and hear this in every parish in Venezuela because, as Pope Francis said, we Christians know that “only God gives true happiness. Neither money nor power can give us the happiness that only God gives”; that “living by faith means putting our whole life in God’s hands, especially in the most diﬀicult moments”; and, most especially, that “joy is the sign of the Christian… a Christian without joy is either not a Christian or is sick. There is no other way… Joy is the seal of the Christian, even in pain, in tribulation, even in persecution.”
+
+I have been in developed countries where everything seems perfect, and I have noticed that people complain about every little thing. I have even dared to tell them to come spend a little time in Venezuela, so they can see what real problems are, and perhaps learn here how to face a negative reality with a positive attitude that helps us keep going. Keep going in order to change things, because we are not going to resign ourselves and let things stay as they are.
+
+There are a great many good people here who not only work to provide for their families but are ready to help those who need it most. That gives us the strength to keep going and not lose our happiness, much less the inner peace that nothing and no one can take from us. Because we know that whoever is with God, and does His will, has nothing to fear.
+
+Something else that helps a great deal to understand why we can be happy here, in spite of everything, is what a priest told me recently: “In Venezuela we have to be happy with our reality.” That does not mean we stop working for a better future. But while we are in this, with whatever each of us has to suffer, solve or face, we have to be happy, live happily and, above all, make life happy for those around us, because there is nothing worse in the world than people who are self-centered, negative, bitter and without hope.
+
+And of course you can be happy in the midst of diﬀiculty! I have the example of my grandparents, who lived through very hard times and were happy. What I remember most about them are their values, their honesty, their integrity, their tireless hard work and fighting spirit; and above all that they lived to make their children and grandchildren happy, even when they were going through a thousand problems.
+
+So happiness has not been lost here, and it never will be! Because God is with us, and because we have a great deal of work to do, and we need a lot of optimism and great hope that better times will come. And better times will not come from mere words or wishes. No! Better times will come because there are a great many people here giving everything down to the marrow (perhaps with tears in their eyes, but with a big smile in their souls) to build a better future for our beloved Venezuela.

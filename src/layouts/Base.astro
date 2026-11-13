@@ -1,19 +1,32 @@
 ---
 import '../styles/global.css';
 import { sitio } from '../data/sitio';
+import { rutaAlterna } from '../data/i18n';
 
 interface Props {
   titulo?: string;
   descripcion?: string;
   lang?: string;
+  alterna?: string; // la misma página en el otro idioma
 }
 
-const { titulo, descripcion = 'Periodista, escritora y columnista venezolana. Autora de «¿Se puede ser feliz en Venezuela?». Archivo de sus artículos de opinión.', lang = 'es' } = Astro.props;
-const tituloCompleto = titulo ? `${titulo} · ${sitio.nombre}` : `${sitio.nombre} · Periodista y escritora`;
+const { lang = 'es' } = Astro.props;
+const en = lang === 'en';
+const { titulo, descripcion = en ? 'Venezuelan journalist, writer and columnist. Author of «Can You Be Happy in Venezuela?». Archive of her opinion columns.' : 'Periodista, escritora y columnista venezolana. Autora de «¿Se puede ser feliz en Venezuela?». Archivo de sus artículos de opinión.' } = Astro.props;
+const tituloCompleto = titulo ? `${titulo} · ${sitio.nombre}` : `${sitio.nombre} · ${en ? 'Journalist and writer' : 'Periodista y escritora'}`;
 const ruta = Astro.url.pathname.replace(/\/$/, '') || '/';
+const alterna = Astro.props.alterna ?? rutaAlterna(ruta, lang);
 const canonica = new URL(Astro.url.pathname, Astro.site);
 
-const menu = [
+const menu = en ? [
+  { href: '/en', texto: 'Home' },
+  { href: '/en/about', texto: 'About' },
+  { href: '/en/articles', texto: 'Articles' },
+  { href: '/en/book', texto: 'Book' },
+  { href: '/en/foundation', texto: 'Fundación Entre Líneas' },
+  { href: '/en/press', texto: 'Press' },
+  { href: '/en/contact', texto: 'Contact' },
+] : [
   { href: '/', texto: 'Inicio' },
   { href: '/sobre-ella', texto: 'Sobre ella' },
   { href: '/articulos', texto: 'Artículos' },
@@ -22,7 +35,7 @@ const menu = [
   { href: '/prensa', texto: 'Prensa' },
   { href: '/contacto', texto: 'Contacto' },
 ];
-const activo = (href: string) => (href === '/' ? ruta === '/' : ruta.startsWith(href));
+const activo = (href: string) => (href === '/' || href === '/en' ? ruta === href : ruta.startsWith(href));
 ---
 <!doctype html>
 <html lang={lang}>
@@ -40,21 +53,23 @@ const activo = (href: string) => (href === '/' ? ruta === '/' : ruta.startsWith(
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet" />
+    <link rel="alternate" hreflang={en ? 'es' : 'en'} href={new URL(alterna, Astro.site)} />
     <slot name="head" />
   </head>
   <body>
-    <a class="saltar" href="#contenido">Saltar al contenido</a>
+    <a class="saltar" href="#contenido">{en ? 'Skip to content' : 'Saltar al contenido'}</a>
     <header class="cabecera">
       <div class="contenedor">
-        <a class="marca" href="/">
-          <small>Periodista y escritora</small>
+        <a class="marca" href={en ? '/en' : '/'}>
+          <small>{en ? 'Journalist and writer' : 'Periodista y escritora'}</small>
           {sitio.nombre}
         </a>
-        <nav aria-label="Menú principal">
+        <nav aria-label={en ? 'Main menu' : 'Menú principal'}>
           <ul class="menu">
             {menu.map((m) => (
               <li><a href={m.href} aria-current={activo(m.href) ? 'page' : undefined}>{m.texto}</a></li>
             ))}
+            <li class="idioma"><a href={alterna} lang={en ? 'es' : 'en'} hreflang={en ? 'es' : 'en'}>{en ? 'Español' : 'English'}</a></li>
           </ul>
         </nav>
       </div>
@@ -68,25 +83,35 @@ const activo = (href: string) => (href === '/' ? ruta === '/' : ruta.startsWith(
       <div class="contenedor">
         <div>
           <h3>{sitio.nombre}</h3>
-          <p>Periodista egresada de la UCV, columnista de opinión, autora y cofundadora de la Fundación Entre Líneas.</p>
+          <p>{en ? 'Journalist (Central University of Venezuela), opinion columnist, author and co-founder of Fundación Entre Líneas.' : 'Periodista egresada de la UCV, columnista de opinión, autora y cofundadora de la Fundación Entre Líneas.'}</p>
         </div>
         <div>
-          <h3>Explorar</h3>
+          <h3>{en ? 'Explore' : 'Explorar'}</h3>
           <ul>
-            <li><a href="/articulos">Artículos</a></li>
-            <li><a href="/libro">¿Se puede ser feliz en Venezuela?</a></li>
-            <li><a href="/en/book">Can You Be Happy in Venezuela? (English)</a></li>
+            {en ? (
+              <>
+                <li><a href="/en/articles">Articles</a></li>
+                <li><a href="/en/book">Can You Be Happy in Venezuela?</a></li>
+                <li><a href="/libro" lang="es">¿Se puede ser feliz en Venezuela? (español)</a></li>
+              </>
+            ) : (
+              <>
+                <li><a href="/articulos">Artículos</a></li>
+                <li><a href="/libro">¿Se puede ser feliz en Venezuela?</a></li>
+                <li><a href="/en/book" lang="en">Can You Be Happy in Venezuela? (English)</a></li>
+              </>
+            )}
           </ul>
         </div>
         <div>
-          <h3>Contacto</h3>
+          <h3>{en ? 'Contact' : 'Contacto'}</h3>
           <ul>
-            <li><a href={`mailto:${sitio.correo}`}>Escribir un correo</a></li>
-            <li><a href="/contacto">Más información</a></li>
+            <li><a href={`mailto:${sitio.correo}`}>{en ? 'Send an email' : 'Escribir un correo'}</a></li>
+            <li><a href={en ? '/en/contact' : '/contacto'}>{en ? 'More information' : 'Más información'}</a></li>
           </ul>
         </div>
       </div>
-      <p class="credito">© {new Date().getFullYear()} {sitio.nombre} · Edición digital y desarrollo al cuidado de <a href="https://casacapriles.com">Casa Capriles</a>.</p>
+      <p class="credito">© {new Date().getFullYear()} {sitio.nombre} · {en ? 'Digital edition and development by' : 'Edición digital y desarrollo al cuidado de'} <a href="https://casacapriles.com">Casa Capriles</a>.</p>
     </footer>
   </body>
 </html>

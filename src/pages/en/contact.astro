@@ -1,0 +1,20 @@
+---
+import Base from '../../layouts/Base.astro';
+import { sitio } from '../../data/sitio';
+---
+<Base lang="en" titulo="Contact" descripcion="Contact María Denisse Fanianos de Capriles for interviews, book presentations and collaborations.">
+  <section class="seccion">
+    <div class="lectura">
+      <p class="etiqueta">Contact</p>
+      <h1>Write to María Denisse</h1>
+      <hr class="linea" />
+      <p class="intro">
+        For interviews, book presentations, collaborations, or simply to share your thoughts on an article.
+      </p>
+      <p><a class="boton" href={`mailto:${sitio.correo}`}>{sitio.correo}</a></p>
+      <p class="nota" style="margin-top:32px">
+        For bulk orders of the book, write to the same address with the quantity and city.
+      </p>
+    </div>
+  </section>
+</Base>

@@ -1,0 +1,16 @@
+---
+import type { ArticleEN } from '../data/articulosEN';
+import { fechaEN, temasEN } from '../data/i18n';
+
+interface Props { article: ArticleEN; mostrarTema?: boolean }
+const { article, mostrarTema = true } = Astro.props;
+const d = article.es.data;
+const tema = d.tema ? temasEN[d.tema] : '';
+const texto = (article.en.body ?? '').replace(/\\([*_.#])/g, '$1').replace(/_/g, '').split(/\n\s*\n/)[0] ?? '';
+const extracto = texto.length > 220 ? texto.slice(0, 220).replace(/\s+\S*$/, '') + '…' : texto;
+---
+<li class="tarjeta" data-anio={d.date.getUTCFullYear()} data-tema={tema}>
+  <p class="meta">{[fechaEN(d), d.medio].filter(Boolean).join(' · ')}{mostrarTema && tema ? ` · ${tema}` : ''}</p>
+  <h3><a href={`/en/articles/${article.id}`}>{article.en.data.title}</a></h3>
+  <p>{extracto}</p>
+</li>

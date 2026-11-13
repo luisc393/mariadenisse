@@ -1,0 +1,20 @@
+---
+title: "From “It’s Cheap, Give Me Two” to 2011"
+libroEN: true
+---
+
+I remember that when I was in high school, one of the things that hurt me most was seeing how some of my friends lived dreaming of going shopping in Miami during vacations, while I saw so much poverty in the poor neighborhood where I helped out with my grandmother. I never liked the “it’s cheap, give me two” attitude, because that obsession with traveling every year (sometimes more than once a year) to a city where the main entertainment was shopping (for things you didn’t even need, at that) just because everything was cheap seemed absurd to me.
+
+But things in this country have changed quite a bit. And with all the blows we have taken, it seems (from what you see up close) that a good many Venezuelans have understood that our country will only move forward if we think less about material things and more about how to help others. Many already know that every grain of sand they can contribute (starting with exercising their right to vote) is vital to improving the society we live in; and they have understood that Venezuela will move forward only to the extent that we commit ourselves to helping solve the problems of our communities. Many of us have learned that criticizing is not enough. We have to help.
+
+And what makes me happiest is this: 1) Many of us Venezuelans who decided to stay here, and who see so much need, are now happier sending our children to spend part of their vacation doing social work (which they love, which gives them a unique education and which looks good on their résumé, besides) than sending them to a shopping mall; 2) Now we buy what we need, period. And whatever we have in excess we give away, because we can’t afford to have things piling up when so many people are in such need; 3) Many Venezuelans no longer care about brands, and when we make the grocery list we write down the items generically. If we don’t find what we’re looking for, we don’t lose our peace, because our happiness doesn’t depend on sauce X, oil Y or cookies Z. We have learned to enjoy ourselves, to be more creative and to be happy with whatever we can find.
+
+The thing is, our heads are busy with very different matters, such as: How can we raise up in our country a generation of very well-prepared leaders who live to serve and not to be served? How can we avoid playing the game of hopelessness and hatred, and get ALL of us working together, in peace, for a better Homeland for our children and grandchildren? How can we sow values in every corner of Venezuela, so that we can build, on solid foundations, a more humane society where true Justice and Peace are lived?
+
+I know it is a bit hard for someone who has lived abroad for many years to understand that what we have been through has changed many of us for the better and has made us grow inwardly. A good many Venezuelans have had the blessing of trading the urge to shop for a passion for praying and fighting day after day to build a country on solid foundations, in spite of everything. That is wonderful!
+
+Something very striking in Venezuela (and something you see very little of in “first-world” countries) is how most churches, from the wealthiest neighborhoods to the poorest, are full of young people every day of the week (some churches have as many as four Masses a day from Monday to Saturday, and up to eight on Sundays). There you see how this generation, which is studying, working and helping their neighbor, draws spiritual strength to keep going with patience, perseverance and great hope, because they know that “if God is with them, what do they have to fear?”
+
+Those of us who decided to stay in this Homeland, which we love madly, are happy (with many problems, it’s true) because we are convinced it has been worth forgetting about other times (and sometimes about ourselves) in order to devote ourselves to educating a generation (from every social class) that, when this country takes a new course, nobody will be able to stop!
+
+And we will be an example for the whole world! An example of patience, perseverance, excellence, detachment and self-giving to others.

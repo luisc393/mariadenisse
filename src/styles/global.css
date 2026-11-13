@@ -95,3 +95,4 @@ h3 { font-size: 1.25rem; }
 .articulo li { margin-bottom: .6em; }
 .cabeza-articulo { padding-top: 56px; padding-bottom: 8px; }
 .cabeza-articulo .meta { font-size: .95rem; color: var(--gris); }
+.menu .idioma a { color: var(--oro); font-weight: 600; }

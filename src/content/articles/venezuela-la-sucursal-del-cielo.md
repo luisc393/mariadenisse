@@ -1,0 +1,20 @@
+---
+title: "Venezuela, “Heaven’s Branch Oﬀice”"
+libroEN: true
+---
+
+A month ago, my husband and I went to Italy to rest a little and to hold some work meetings in Rome. Every time someone asked my husband, “And where are you from?”, he (a typical joke-cracking Venezuelan) would answer: “From Venezuela, Heaven’s branch oﬀice.” “Reeeally?!” the Italians would reply, and then launch into a litany of complaints about the “thousands of problems” they have over there, as they saw it: “You know, Berlusconi, the taxes, blah, blah, blah.” Deep down I was laughing, and I would tell them it wasn’t true, that in Venezuela we had many serious problems (above all crime) but that people lived happily, in spite of everything, because that was where we were born and that was where we were meant to fight.
+
+Walking down the street, we ran into a Venezuelan woman who had been living in Italy for ten years. As soon as she saw us she started complaining (her husband is out of work, and so on) and told us that her father (an Italian who had immigrated to Venezuela) lasted only two years in Italy before going back to Maracaibo, because, as he put it: “I’d rather put up with my own damn troubles than stay in a country that isn’t mine.”
+
+In short, I can’t explain what it is about us Venezuelans who are here, going through hell, and yet happy! Truly, I don’t know what accounts for it. Perhaps the psychologists who work in Positive Psychology can explain it. Once, reading Martin Seligman’s _Authentic Happi- ness_, I came across a chapter about the satisfaction and happiness that come from the things that cost us the most. And you should see how hard everything is to get here in Venezuela.
+
+Other very telling anecdotes from the trip involve the taxi drivers we talked with. First they complained about the situation in Italy. None of them was married (men and women in their forties), they had no children, and we were struck by a young man (about twentytwo) who, when we asked what he was studying, told us: “Nothing, because what I want is to make money.”
+
+Try it yourselves: ask any Venezuelan taxi driver how many children he has and what his children or grandchildren are studying. To this very day, I have always met taxi drivers who are worried about the situation in the country but full of hope. They all have several children or grandchildren, who are studying or have graduated from our excellent universities. And don’t even get me started on the happiness and pride they show!
+
+A few more anecdotes to close the article. When I arrive at the airport, immigration always makes me nervous. I usually write “Occupation: Homemaker” on the form, so as not to have any trouble over my profession as a journalist. But my husband had filled out the form, and when the young oﬀicer saw it he said to me (looking impressed): “You’re a journalist! I’m so happy, because in a few weeks I graduate in communications from the Santa María University.” Of course I congratulated him and wished him every success; we started chatting like friends and nearly exchanged phone numbers so he could invite us to his graduation.
+
+The taxi driver who brought us into Caracas told us that last year his mother, who had thirteen children, turned ninety. They threw her a “huge” party at the little farm they have in Santa Bárbara del Zulia. With children, grandchildren, daughters- and sons-in-law, cousins and so on, there were more than two hundred of them, because, as he told us, the sibling with the fewest children has four. “Ma’am, we slaughtered a calf and a goat, we cooked four kilos of yuca, corn on the cob, you name it. The party lasted two days, because the neighbors joined in too. You have no idea how happy my mother was with that crowd.”
+
+Well, that is how we Venezuelans are: Happy and full of Hope, in spite of everything! And I had better not even mention the secularization of Europe, because that only brings sorrow. I have always said that whoever knows they are a child of God and lives for others, not for themselves, will always be happy, wherever they live!

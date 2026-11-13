@@ -1,0 +1,94 @@
+---
+import Base from '../../../layouts/Base.astro';
+import TarjetaArticleEN from '../../../components/TarjetaArticleEN.astro';
+import { temas, slugTema } from '../../../data/sitio';
+import { temasEN } from '../../../data/i18n';
+import { articlesEN } from '../../../data/articulosEN';
+
+const articulos = await articlesEN();
+const anios = [...new Set(articulos.map((a) => a.es.data.date.getUTCFullYear()))].sort((a, b) => b - a);
+const temasUsados = temas.filter((t) => articulos.some((a) => a.es.data.tema === t));
+---
+<Base lang="en" titulo="Articles" descripcion="Archive of María Denisse Fanianos de Capriles's opinion columns in El Universal and other outlets, in English.">
+  <section class="seccion">
+    <div class="contenedor">
+      <p class="etiqueta">Archive</p>
+      <h1>Articles</h1>
+      <p class="intro" style="max-width:720px">
+        Weekly opinion columns published in the Venezuelan newspaper <em>El Universal</em> from January 2011, and later in ACI Prensa and Noticiero Digital.
+        Many were republished by other outlets in Venezuela and abroad. Translated from the Spanish.
+      </p>
+
+      <form class="filtros" id="filtros" role="search" onsubmit="return false">
+        <label>
+          <span>Search</span>
+          <input type="search" id="f-texto" placeholder="Word or title" autocomplete="off" />
+        </label>
+        <label>
+          <span>Year</span>
+          <select id="f-anio">
+            <option value="">All</option>
+            {anios.map((a) => <option value={a}>{a}</option>)}
+          </select>
+        </label>
+        <label>
+          <span>Topic</span>
+          <select id="f-tema">
+            <option value="">All</option>
+            {temasUsados.map((t) => <option value={temasEN[t]} data-slug={slugTema(t)}>{temasEN[t]}</option>)}
+          </select>
+        </label>
+      </form>
+      <p class="nota" id="contador" aria-live="polite">{articulos.length} articles</p>
+
+      <ul class="lista-articulos" id="lista">
+        {articulos.map((a) => <TarjetaArticleEN article={a} />)}
+      </ul>
+      <p class="nota" id="vacio" hidden>No articles match these filters.</p>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .filtros { display: grid; grid-template-columns: 2fr 1fr 2fr; gap: 12px; margin: 28px 0 8px; }
+  .filtros label { display: flex; flex-direction: column; gap: 4px; font-size: .85rem; color: var(--gris); font-weight: 600; }
+  .filtros input, .filtros select { font: inherit; font-size: 1rem; padding: 10px 12px; border: 1px solid var(--borde); border-radius: 4px; background: var(--blanco); color: var(--tinta); width: 100%; }
+  @media (max-width: 760px) { .filtros { grid-template-columns: 1fr; } }
+</style>
+
+<script>
+  const lista = document.getElementById('lista')!;
+  const items = Array.from(lista.querySelectorAll<HTMLLIElement>('.tarjeta'));
+  const fTexto = document.getElementById('f-texto') as HTMLInputElement;
+  const fAnio = document.getElementById('f-anio') as HTMLSelectElement;
+  const fTema = document.getElementById('f-tema') as HTMLSelectElement;
+  const contador = document.getElementById('contador')!;
+  const vacio = document.getElementById('vacio')!;
+  const norm = (s: string) => s.normalize('NFKD').replace(/[̀-ͯ]/g, '').toLowerCase();
+  const textos = items.map((li) => norm(li.textContent || ''));
+
+  // Leer filtros de la dirección (?tema=...&anio=...)
+  const params = new URLSearchParams(location.search);
+  const temaSlug = params.get('tema');
+  if (temaSlug) {
+    const opt = Array.from(fTema.options).find((o) => o.dataset.slug === temaSlug);
+    if (opt) fTema.value = opt.value;
+  }
+  if (params.get('anio')) fAnio.value = params.get('anio')!;
+
+  function aplicar() {
+    const q = norm(fTexto.value.trim());
+    let n = 0;
+    items.forEach((li, i) => {
+      const ok = (!fAnio.value || li.dataset.anio === fAnio.value)
+        && (!fTema.value || li.dataset.tema === fTema.value)
+        && (!q || textos[i].includes(q));
+      li.hidden = !ok;
+      if (ok) n++;
+    });
+    contador.textContent = n === 1 ? '1 article' : `${n} articles`;
+    vacio.hidden = n !== 0;
+  }
+  [fTexto, fAnio, fTema].forEach((el) => el.addEventListener('input', aplicar));
+  aplicar();
+</script>

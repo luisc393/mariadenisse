@@ -18,4 +18,15 @@ const articulos = defineCollection({
   }),
 });
 
-export const collections = { articulos };
+// Traducciones al inglés: mismo nombre de archivo que el artículo en español, en src/content/articles/.
+// La fecha, el medio y el tema se toman del artículo en español.
+const articles = defineCollection({
+  loader: glob({ pattern: '**/[^_]*.md', base: './src/content/articles' }),
+  schema: z.object({
+    title: z.string(),
+    // true si el texto viene de la edición en inglés del libro
+    libroEN: z.boolean().default(false),
+  }),
+});
+
+export const collections = { articulos, articles };

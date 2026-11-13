@@ -1,5 +1,6 @@
 ---
 import { getCollection, render } from 'astro:content';
+import { tieneTraduccion } from '../../data/articulosEN';
 import Base from '../../layouts/Base.astro';
 import { fechaArticulo, slugTema, libroES } from '../../data/sitio';
 
@@ -14,9 +15,10 @@ export async function getStaticPaths() {
 const { articulo, anterior, siguiente } = Astro.props;
 const { Content } = await render(articulo);
 const d = articulo.data;
+const enIngles = await tieneTraduccion(articulo.id);
 const resumen = (articulo.body ?? '').replace(/\\([*_.#])/g, '$1').split(/\n\s*\n/)[0]?.slice(0, 160) ?? '';
 ---
-<Base titulo={d.title} descripcion={resumen}>
+<Base titulo={d.title} descripcion={resumen} alterna={enIngles ? `/en/articles/${articulo.id}` : '/en/articles'}>
   <article>
     <header class="cabeza-articulo lectura">
       <p class="etiqueta">{d.tema ? <a href={`/articulos?tema=${slugTema(d.tema)}`}>{d.tema}</a> : 'Artículo'}</p>

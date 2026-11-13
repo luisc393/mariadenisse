@@ -1,0 +1,87 @@
+---
+import { Image } from 'astro:assets';
+import Base from '../../layouts/Base.astro';
+import foto from '../../assets/maria-denisse-biblioteca.png';
+---
+<Base lang="en" titulo="About" descripcion="Biography of María Denisse Fanianos de Capriles: journalist, columnist for El Universal and ACI Prensa, author and co-founder of Fundación Entre Líneas.">
+  <section class="seccion">
+    <div class="contenedor bio-grid">
+      <div>
+        <p class="etiqueta">Biography</p>
+        <h1>About María Denisse</h1>
+        <hr class="linea" />
+        <div class="texto">
+          <p class="intro">
+            María Denisse Fanianos de Capriles is a Venezuelan journalist, writer, editor and opinion columnist.
+            And, above all, a wife and the mother of six children.
+          </p>
+          <p>
+            She was born in Caracas. In 1989 she graduated first in her class from the School of Social Communication at the
+            Central University of Venezuela (UCV). Her thesis, <em lang="es">«¡Qué caricatura de democracia!»</em>
+            (“What a caricature of democracy!”), received a distinction for excellence and was published. At the UCV she
+            took part in research with professors Marcelino Bisbal, Adolfo Herrera, Gloria Cuenca and Eleazar Díaz Rangel.
+          </p>
+
+          <h2>Opinion columnist</h2>
+          <p>
+            From January 2011 she wrote a weekly column for the Caracas newspaper <em>El Universal</em>, covering social,
+            civic, educational and family life in Venezuela. She published more than 200 articles there. Her column was
+            dropped, along with those of some thirty other columnists, after the paper changed owners and editorial line.
+          </p>
+          <p>
+            Her pieces were republished and covered by international outlets and agencies such as ACI Prensa, ACI Digital
+            and El Observador de la Actualidad. She later went on writing from Venezuela as a columnist and reporter for
+            ACI Prensa.
+          </p>
+
+          <h2>Author</h2>
+          <p>
+            In December 2019 she published her first book, <a href="/libro" lang="es"><em>¿Se puede ser feliz en Venezuela?</em></a>,
+            a collection of her columns. It is now also available in English as
+            <a href="/en/book"><em>Can You Be Happy in Venezuela?</em></a> At the publishing house she runs with her husband,
+            the publisher Luis Felipe Capriles, she has worked as an author, compiler and copy editor.
+          </p>
+
+          <h2>Fundación Entre Líneas</h2>
+          <p>
+            In 1994 she founded, together with her husband, <a href="/en/foundation">Fundación Entre Líneas</a>, devoted to
+            producing printed educational material for Venezuelans. She directed and produced the monthly bulletin
+            <a href="https://venezuelaentrelineas.com/leer-entrelineas/" target="_blank" rel="noopener"><em>Leer Entre Líneas</em></a>,
+            which was distributed free of charge across almost the whole country for years.
+          </p>
+          <p>
+            In 2004 she organized, with nearly a hundred volunteers, the gathering “Builders of the New Participatory
+            Venezuela”, with more than 40 organizations and 600 participants from every social, political and religious background.
+          </p>
+
+          <h2>Interviews</h2>
+          <p>
+            Over her career she has interviewed, among others, former president Luis Herrera Campins, the poet Ida Gramcko,
+            Brother Ginés, Cardinal Jorge Urosa Savino, the apostolic nuncio Giacinto Berloco and Bishop Javier Echevarría.
+          </p>
+
+          <h2>In the media</h2>
+          <p>
+            Her columns and views have been featured by ACI Prensa, Aleteia and other outlets.
+            <a href="/en/press">See all press coverage →</a>
+          </p>
+        </div>
+      </div>
+      <aside>
+        <Image src={foto} alt="María Denisse Fanianos de Capriles" widths={[320, 480, 640]} sizes="(max-width: 760px) 80vw, 340px" class="foto" />
+      </aside>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .bio-grid { display: grid; grid-template-columns: 1fr 340px; gap: 56px; align-items: start; }
+  .texto { max-width: 680px; }
+  .texto h2 { font-size: 1.45rem; margin-top: 1.6em; }
+  .foto { border-radius: 4px; position: sticky; top: 24px; box-shadow: 0 18px 40px -20px rgba(29,42,71,.45); }
+  @media (max-width: 860px) {
+    .bio-grid { grid-template-columns: 1fr; gap: 24px; }
+    aside { order: -1; max-width: 300px; }
+    .foto { position: static; }
+  }
+</style>

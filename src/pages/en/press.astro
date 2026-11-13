@@ -1,0 +1,43 @@
+---
+import Base from '../../layouts/Base.astro';
+import { sobreElla, susArticulos, type Nota } from '../../data/prensa';
+
+
+const grupos: { titulo: string; notas: Nota[] }[] = [
+  { titulo: 'News and interviews', notas: sobreElla },
+  { titulo: 'Her articles in other outlets', notas: susArticulos },
+];
+---
+<Base lang="en" titulo="Press" descripcion="María Denisse Fanianos de Capriles in ACI Prensa, Aleteia, Espacio Público and other outlets.">
+  <section class="seccion">
+    <div class="lectura">
+      <p class="etiqueta">Press</p>
+      <h1>In the media</h1>
+      <hr class="linea" />
+      <p class="intro">Interviews, news and articles by María Denisse published in other outlets. The pieces are in Spanish.</p>
+      {grupos.map((g) => (
+        <>
+          <h2>{g.titulo}</h2>
+          <ul class="notas">
+            {g.notas.map((n) => (
+              <li>
+                <p class="meta">{n.medio} · {new Date(n.fecha).toLocaleDateString('en-US', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' })}</p>
+                <a href={n.url} target="_blank" rel="noopener" lang="es">{n.titulo}</a>
+                <p class="resumen">{n.resumenEN ?? n.resumen}</p>
+              </li>
+            ))}
+          </ul>
+        </>
+      ))}
+    </div>
+  </section>
+</Base>
+
+<style>
+  h2 { font-size: 1.45rem; margin-top: 1.6em; }
+  .notas { list-style: none; padding: 0; margin: 0; }
+  .notas li { padding: 18px 0; border-bottom: 1px solid var(--borde); }
+  .notas a { font-family: var(--serif); font-size: 1.15rem; }
+  .meta { margin: 0 0 4px; font-size: .82rem; text-transform: uppercase; letter-spacing: .08em; color: var(--gris); }
+  .resumen { margin: 6px 0 0; color: var(--gris); }
+</style>
