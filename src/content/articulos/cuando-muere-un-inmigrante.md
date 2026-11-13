@@ -1,0 +1,25 @@
+---
+title: "Cuando muere un inmigrante"
+date: 2013-08-21
+medio: "El Universal"
+tema: "Maravillas de Venezuela"
+libro: true
+---
+
+La semana pasada murió mi abuela de 95 años de edad. Ella nació en el Líbano. A los 9 años de edad salió de su ciudad natal (Zgharta) con su mamá, mientras su papá se quedaba a arreglar todo para salir con el resto de la familia. La guerra había sumido al Líbano en una gran pobreza y querían venir a América a buscar nuevos horizontes. El viaje fue en barco desde el Líbano hasta Francia, y desde allí viajaron a América en una travesía de más de 2 meses. Se radican en Santo Domingo y a los 2 años llega sólo su papá, dejando a sus hermanos en el Líbano. Al año él muere de gripe y queda su mamá viuda con su hija. La cofradía libanesa de Santo Domingo decide que debe casarse con algún libanés y ella se casa a los 14 años con un hombre de 29 años, quien siempre fue su amado esposo, mi querido abuelo.
+
+En 1945 llegó al aeropuerto de la Guaira con su esposo, su hermana, su sobrina y sus dos hijos. Su vida fue como la de muchos inmigrantes que llegaron a Venezuela en esa época: una vida de mucho sacrificio y de mucho trabajo. Ella contaba a sus nietos su vida en la Caracas de antaño. Una Caracas con temperatura fría, segura y limpia. Relataba cómo era el día a día en la pensión que montó con mi abuelo cerca de Miraflores (de Llaguno a Bolero) donde alojaron a muchos libaneses, sirios, etc., que dejaban su tierra natal para comenzar una nueva vida en un país que los recibió con los brazos abiertos.
+
+El tema de la comida libanesa era muy importante porque para ellos (igual que para los italianos, españoles, etc.) sentarse a la mesa era como un ritual. En esa época los caraqueños ni sabían lo que era un kibbe. Recuerdo cómo se burlaban de mi prima en el colegio cuando abría su lonchera con un falafel. Ahora a muchos les encanta la comida libanesa. La hija menor de mi abuela (le decían Clarita) se especializó tanto en esta comida que sus recetas están en el libro azul de Scannone. Siempre pienso en cómo se enriqueció la cultura culinaria venezolana con los inmigrantes que vinieron a estas tierras.
+
+Mis abuelos criaron a sus hijos con gran estrechez económica por lo que las virtudes de la sobriedad, reciedumbre y fortaleza destacaban en su hogar. Ahí las palabras flojera, consentimiento, malcriadez, etc., no existían. Era otra época educativa, yo pienso que fue una época educativa de oro. Así fue la vida de muchos inmigrantes que llegaron esos años. Muchos de ellos tuvieron la inmensa dicha de ver a sus hijos graduarse en excelentes liceos o colegios, y en nuestras maravillosas universidades.
+
+El día de su funeral, viéndola con una sonrisa en su cara ya descansando en paz, yo pensaba mucho en lo que fue la vida de mi abuela. Una vida de una inmensa fe, una fe tan grande que la sostuvo en pie al momento de la muerte de su hijo mayor a temprana edad. Fue gran devota de Santa Clara de Asís y aún cuando ya no razonaba nada de lo que decía el día que estaba muriendo dijo: «Santa Clara llévame». Y murió el 11 de agosto, fiesta de Santa Clara.
+
+Fue una mujer que trabajó sin descanso toda su vida, limpiando, cocinando, cuidando enfermos (a su esposo y a su mamá). Fue una vida de verdadero sacrificio, servicio, sencillez, humildad, y siempre estaba contenta. Se conformaba con muy poco y era tan feliz. No podía ver a nadie atravesando una necesidad porque ahí estaba ella para ayudarlo.
+
+Trabajó toda su vida sin ganar un medio, y sin un medio (en el banco de esta tierra) se murió. Eso sí, se llevó para el cielo una cuenta ¡muy grande! que sólo Dios (y quienes la conocimos) sabemos apreciar. ¡Qué sabroso es morirse con bastantes obras de amor dejadas en esta tierra, porque eso es lo único que uno se lleva! Hace poco el Papa Francisco decía que uno nunca ha visto a un muerto llevarse a la tumba un camión de mudanzas. Lo único que nos llevamos es el Amor, el Amor que dimos a los demás.
+
+Cuando yo manejaba hacia el cementerio, pensé mucho en tantos inmigrantes que llegaron a nuestro país (conocí y conozco varios verdaderamente ejemplares) y a quienes Venezuela les debe tanto. Sobre todo ese ejemplo de fe y valores que dieron a sus hijos, nietos y bisnietos, y que en estos momentos es tan importante volver a poner de moda ¡en el mundo entero! Ese ejemplo es vital para quienes estamos aquí atravesando tantos problemas. Esos valores que nos dejaron en herencia son los que hoy nos mantienen en pie para seguir adelante luchando por rescatar esta maravillosa tierra de gracia que le dio tantas oportunidades a tantas personas, sin discriminar a nadie.
+
+Hoy le rindo honor a mi abuela, una mujer como cualquier otra que pasó su vida en esta tierra escondida a los ojos del mundo, pero no a los ojos de Dios. Aprovecho de rendirle homenaje a tantos inmigrantes que llegaron a Venezuela y que también han dejado un gran legado de trabajo y de valores del cual muchos nos estamos sosteniendo para poder construir una Venezuela digna para nuestros hijos y nietos.

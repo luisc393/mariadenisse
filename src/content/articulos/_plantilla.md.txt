@@ -1,0 +1,11 @@
+---
+title: "Título del artículo"
+date: 2014-01-15
+medio: "El Universal"
+tema: "Alegría y esperanza de los venezolanos"
+libro: false
+---
+
+Primer párrafo del artículo.
+
+Segundo párrafo. Deja una línea en blanco entre párrafos.

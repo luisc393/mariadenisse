@@ -1,0 +1,21 @@
+---
+title: "¿Somos flojos los venezolanos?"
+date: 2013-03-27
+medio: "El Universal"
+tema: "Virtudes del venezolano"
+libro: true
+---
+
+Cada vez que oigo a alguien decir que los venezolanos somos flojos me pregunto si esas personas que dicen eso han hablado alguna vez con la gente que hace cola en las paradas de autobuses desde muy temprano en la madrugada; con las cajeras de los supermercados donde hacen sus compras; con los barrenderos que les barren las aceras de la calle donde viven; con esos maravillosos jóvenes que se han venido del interior a sacar sus carreras universitarias aquí en Caracas; con otros que estudian y trabajan; con miles ¡o millones! de personas (profesionales o no) que no llegan a dormir las ocho horas diarias necesarias porque trabajan muchísimo para poder sacar a su familia adelante.
+
+Y es que es importante conocer la verdadera realidad de nuestra gente, gente ¡Maravillosa! que se ha ganado ese título de flojos «por los siglos de los siglos» como si esa fuera una marca que llevamos impresa en la frente y que nunca nos la vamos a poder quitar.
+
+Si el venezolano fuera tan flojo como lo pintan ¿por qué las calles y el metro están repletos de carros y gente todos los días (hasta sábados y domingos) con gente que va y viene de sus trabajos, estudios, etc.? ¿Si el venezolano es tan flojo como lo pintan por qué afuera dan trabajo en sus empresas, clínicas, ¡o donde sea! a un venezolano? ¿Si el venezolano es tan flojo por qué tenemos un Sistema de Orquestas Infantiles y Juveniles único que ha logrado un cambio ¡mundial! en la cultura musical? ¿Si el venezolano es tan flojo por qué en los Modelos de las Naciones Unidas o en las Olimpíadas Internacionales de lo que sea, que se llevan a cabo en famosas universidades del mundo, las delegaciones venezolanas siempre están entre los primeros puestos?
+
+He conocido testimonios de mujeres, con hijos muy pequeños, que tienen que salir de Guarenas a las 4 y pico de la madrugada (y ya tienen loncheras listas, cena hecha, etc.) para poder llegar a su trabajo en Caracas a las 8 de la mañana y la hora de regreso a su casa es prácticamente imposible de predecir. Igual podríamos hablar de quienes viven en Los Teques o en las «ciudades dormitorio». Eso sin hablar de la gente que uno conoce que tienen carros y que igualmente tienen que madrugar todos los días para poder llegar a su trabajo a la hora y regresan tarde en la noche porque les agarra un tráfico de horas. Entonces ¿de qué venezolanos flojos me están hablando?
+
+Y es que vuelvo y les repito: la Venezuela y los venezolanos de hoy no somos los mismos de hace 15 años. Y aunque haya uno que otro flojo por ahí que no trabaje ¡esos son la minoría! y por eso es una gran injusticia decir que «los venezolanos son flojos» metiendo en ese paquete a un gentío que da muestra diariamente de ser grandes trabajadores, sin hablar de muchas otras virtudes.
+
+Y si hay algo que distingue también a la gran mayoría de los venezolanos, que están fajados trabajando y «pasando las de Caín», es que no están todo el tiempo con la quejadera, sino que le «echan pichón» a lo que tienen que hacer y punto. El otro día, por ejemplo, me puse a conversar con un joven que me ayudó a llevar unas cosas al carro y me contaba, con una sonrisa en la cara y sin quejarse para nada, que había tenido que retirarse de sus estudios de derecho en la Central porque el horario de su trabajo no le permitía llegar a tiempo a la universidad: «Pero este año me cambiaron los horarios y comenzaré nuevamente; estoy feliz, y además le cuento que yo canto en la coral de la universidad».
+
+Así que yo invito a quienes dicen que los venezolanos son flojos que se vayan un día a la redoma de Petare y se pongan a conversar con sus ¡hermanos venezolanos! para que se den cuenta, con argumentos firmes y seguros, que la etiqueta de Flojos no va con este pueblo y que precisamente por esa razón a este país no lo va a parar nadie cuando tengamos la oportunidad de trabajar unidos, sin descanso, para poder resolver tantos problemas que vivimos día a día y que a pesar que nos han hecho la vida muy difícil también han logrado que demostremos que si hay alguien que trabaja, esos somos los venezolanos.t

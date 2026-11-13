@@ -1,0 +1,89 @@
+---
+import { Image } from 'astro:assets';
+import Base from '../layouts/Base.astro';
+import foto from '../assets/maria-denisse-biblioteca.png';
+---
+<Base titulo="Sobre ella" descripcion="Biografía de María Denisse Fanianos de Capriles: periodista de la UCV, columnista de El Universal y ACI Prensa, autora y cofundadora de la Fundación Entre Líneas.">
+  <section class="seccion">
+    <div class="contenedor bio-grid">
+      <div>
+        <p class="etiqueta">Biografía</p>
+        <h1>Sobre María Denisse</h1>
+        <hr class="linea" />
+        <div class="texto">
+          <p class="intro">
+            María Denisse Fanianos de Capriles es periodista, escritora, editora y columnista de opinión venezolana.
+            Y, por encima de todo, esposa y madre de seis hijos.
+          </p>
+          <p>
+            Nació en Caracas. Se graduó en 1989 en la Escuela de Comunicación Social de la Universidad Central de Venezuela
+            con el primer lugar de su promoción. Su tesis, <em>«¡Qué caricatura de democracia!»</em>, obtuvo mención de
+            excelencia y publicación. En la UCV colaboró en trabajos de investigación con los profesores Marcelino Bisbal,
+            Adolfo Herrera, Gloria Cuenca y Eleazar Díaz Rangel.
+          </p>
+
+          <h2>Columnista de opinión</h2>
+          <p>
+            Desde enero de 2011 escribió una columna semanal en el diario <em>El Universal</em>, donde abordó la actualidad
+            social, ciudadana, educativa y familiar de Venezuela. Publicó allí más de 200 artículos. Su columna fue retirada,
+            junto con las de cerca de una treintena de articulistas, tras el cambio de dueños y de línea editorial del diario.
+          </p>
+          <p>
+            Sus crónicas fueron reproducidas y reseñadas por portales y agencias internacionales como ACI Prensa,
+            ACI Digital y El Observador de la Actualidad. Más tarde siguió escribiendo como columnista y reportera desde
+            Venezuela para ACI Prensa.
+          </p>
+
+          <h2>Autora</h2>
+          <p>
+            En diciembre de 2019 publicó su primer libro, <a href="/libro"><em>¿Se puede ser feliz en Venezuela?</em></a>,
+            una recopilación de sus columnas. Hoy está disponible también en inglés como
+            <a href="/en/book"><em>Can You Be Happy in Venezuela?</em></a> En la editorial que lleva con su esposo,
+            el editor Luis Felipe Capriles, ha trabajado como autora, compiladora y correctora de textos.
+          </p>
+
+          <h2>Fundación Entre Líneas</h2>
+          <p>
+            En 1994 fundó junto a su esposo la <a href="/fundacion-entre-lineas">Fundación Entre Líneas</a>, dedicada a producir
+            material educativo impreso para los venezolanos. Dirigió y produjo el boletín mensual <em>Leer Entre Líneas</em>,
+            que se distribuyó gratis en casi todo el país durante años.
+          </p>
+          <p>
+            En 2004 organizó, con casi cien voluntarios, el encuentro «Constructores de la Nueva Venezuela Participativa»,
+            con más de 40 organizaciones y 600 participantes de todo tipo de origen social, político y religioso.
+          </p>
+
+          <h2>Entrevistas</h2>
+          <p>
+            A lo largo de su carrera entrevistó, entre otros, al expresidente Luis Herrera Campins, a la poeta Ida Gramcko,
+            al Hermano Ginés, al cardenal Jorge Urosa Savino, al nuncio Giacinto Berloco y a Mons. Javier Echevarría.
+          </p>
+
+          <h2>En los medios</h2>
+          <ul>
+            <li>
+              <a href="https://www.ewtnnews.com/es/mundo/america/la-fe-ha-mantenido-unida-a-venezuela-afirma-columnista-tras-muerte-de-chavez" target="_blank" rel="noopener">
+                «La fe ha mantenido unida a Venezuela, afirma columnista tras muerte de Chávez»
+              </a> · ACI Prensa, 7 de marzo de 2013
+            </li>
+          </ul>
+        </div>
+      </div>
+      <aside>
+        <Image src={foto} alt="María Denisse Fanianos de Capriles" widths={[320, 480, 640]} sizes="(max-width: 760px) 80vw, 340px" class="foto" />
+      </aside>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .bio-grid { display: grid; grid-template-columns: 1fr 340px; gap: 56px; align-items: start; }
+  .texto { max-width: 680px; }
+  .texto h2 { font-size: 1.45rem; margin-top: 1.6em; }
+  .foto { border-radius: 4px; position: sticky; top: 24px; box-shadow: 0 18px 40px -20px rgba(29,42,71,.45); }
+  @media (max-width: 860px) {
+    .bio-grid { grid-template-columns: 1fr; gap: 24px; }
+    aside { order: -1; max-width: 300px; }
+    .foto { position: static; }
+  }
+</style>

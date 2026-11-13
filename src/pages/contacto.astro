@@ -1,0 +1,20 @@
+---
+import Base from '../layouts/Base.astro';
+import { sitio } from '../data/sitio';
+---
+<Base titulo="Contacto" descripcion="Contacto con María Denisse Fanianos de Capriles para entrevistas, presentaciones del libro y colaboraciones.">
+  <section class="seccion">
+    <div class="lectura">
+      <p class="etiqueta">Contacto</p>
+      <h1>Escríbele a María Denisse</h1>
+      <hr class="linea" />
+      <p class="intro">
+        Para entrevistas, presentaciones del libro, colaboraciones o simplemente para comentarle un artículo.
+      </p>
+      <p><a class="boton" href={`mailto:${sitio.correo}`}>{sitio.correo}</a></p>
+      <p class="nota" style="margin-top:32px">
+        Para compras al mayor del libro, escribe al mismo correo indicando la cantidad y la ciudad.
+      </p>
+    </div>
+  </section>
+</Base>

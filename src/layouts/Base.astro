@@ -1,0 +1,91 @@
+---
+import '../styles/global.css';
+import { sitio } from '../data/sitio';
+
+interface Props {
+  titulo?: string;
+  descripcion?: string;
+  lang?: string;
+}
+
+const { titulo, descripcion = 'Periodista, escritora y columnista venezolana. Autora de «¿Se puede ser feliz en Venezuela?». Archivo de sus artículos de opinión.', lang = 'es' } = Astro.props;
+const tituloCompleto = titulo ? `${titulo} · ${sitio.nombre}` : `${sitio.nombre} · Periodista y escritora`;
+const ruta = Astro.url.pathname.replace(/\/$/, '') || '/';
+const canonica = new URL(Astro.url.pathname, Astro.site);
+
+const menu = [
+  { href: '/', texto: 'Inicio' },
+  { href: '/sobre-ella', texto: 'Sobre ella' },
+  { href: '/articulos', texto: 'Artículos' },
+  { href: '/libro', texto: 'Libro' },
+  { href: '/fundacion-entre-lineas', texto: 'Fundación Entre Líneas' },
+  { href: '/contacto', texto: 'Contacto' },
+];
+const activo = (href: string) => (href === '/' ? ruta === '/' : ruta.startsWith(href));
+---
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{tituloCompleto}</title>
+    <meta name="description" content={descripcion} />
+    <link rel="canonical" href={canonica} />
+    <meta property="og:title" content={tituloCompleto} />
+    <meta property="og:description" content={descripcion} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonica} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet" />
+    <slot name="head" />
+  </head>
+  <body>
+    <a class="saltar" href="#contenido">Saltar al contenido</a>
+    <header class="cabecera">
+      <div class="contenedor">
+        <a class="marca" href="/">
+          <small>Periodista y escritora</small>
+          {sitio.nombre}
+        </a>
+        <nav aria-label="Menú principal">
+          <ul class="menu">
+            {menu.map((m) => (
+              <li><a href={m.href} aria-current={activo(m.href) ? 'page' : undefined}>{m.texto}</a></li>
+            ))}
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main id="contenido">
+      <slot />
+    </main>
+
+    <footer class="pie">
+      <div class="contenedor">
+        <div>
+          <h3>{sitio.nombre}</h3>
+          <p>Periodista egresada de la UCV, columnista de opinión, autora y cofundadora de la Fundación Entre Líneas.</p>
+        </div>
+        <div>
+          <h3>Explorar</h3>
+          <ul>
+            <li><a href="/articulos">Artículos</a></li>
+            <li><a href="/libro">¿Se puede ser feliz en Venezuela?</a></li>
+            <li><a href="/en/book">Can You Be Happy in Venezuela? (English)</a></li>
+          </ul>
+        </div>
+        <div>
+          <h3>Contacto</h3>
+          <ul>
+            <li><a href={`mailto:${sitio.correo}`}>Escribir un correo</a></li>
+            <li><a href="/contacto">Más información</a></li>
+          </ul>
+        </div>
+      </div>
+      <p class="credito">© {new Date().getFullYear()} {sitio.nombre} · Sitio hecho por <a href="https://casacapriles.com">Casa Capriles</a></p>
+    </footer>
+  </body>
+</html>

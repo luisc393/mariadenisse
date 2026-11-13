@@ -1,0 +1,103 @@
+---
+import { getCollection } from 'astro:content';
+import { Image } from 'astro:assets';
+import Base from '../layouts/Base.astro';
+import BotonesCompra from '../components/BotonesCompra.astro';
+import { libroES, temas } from '../data/sitio';
+import portada from '../assets/portada-es.jpg';
+import cover from '../assets/cover-en.jpg';
+
+const delLibro = (await getCollection('articulos')).filter((a) => a.data.libro);
+const capitulos = temas.map((t) => ({
+  titulo: t,
+  articulos: delLibro.filter((a) => a.data.tema === t).sort((a, b) => a.data.date.valueOf() - b.data.date.valueOf()),
+}));
+const romanos = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII'];
+---
+<Base titulo={libroES.titulo} descripcion={`${libroES.titulo} ${libroES.subtitulo}. Libro de María Denisse Fanianos de Capriles, también en inglés.`}>
+  <section class="seccion blanca">
+    <div class="contenedor libro-grid">
+      <Image src={portada} alt={`Portada del libro ${libroES.titulo}`} widths={[280, 420, 560]} sizes="(max-width: 760px) 70vw, 340px" class="portada" loading="eager" />
+      <div>
+        <p class="etiqueta">El libro</p>
+        <h1>{libroES.titulo}</h1>
+        <p class="intro"><em>{libroES.subtitulo}</em></p>
+        <hr class="linea" />
+        <p>
+          A todos nos consta cómo de un tiempo para acá algunas personas dicen que en Venezuela no se puede ser feliz
+          por los cientos de problemas que enfrentamos día a día. Sin duda alguna, la «calidad de vida» en Venezuela no es
+          para nada óptima, y aun así muchos venezolanos hemos dado un gran ejemplo de paciencia, fortaleza, creatividad,
+          trabajo y alegría.
+        </p>
+        <p>
+          En estos momentos de nuestra historia no es nada fácil responder afirmativamente a la pregunta: ¿se puede ser
+          feliz en Venezuela? Pero esa es la finalidad de este libro: responder que ¡sí se puede ser feliz!, con argumentos
+          y hechos concretos, llenos de actitud de vida positiva.
+        </p>
+        <p>
+          A través de los artículos que la autora escribió como columnista de <em>El Universal</em>, el libro recoge
+          momentos muy duros que se vivieron en Venezuela entre 2011 y 2015, y que muchas personas afrontaron con una
+          visión positiva, alegre y de gran esperanza.
+        </p>
+        <h2 class="h-compra">Comprar</h2>
+        <BotonesCompra enlaces={libroES.compra} />
+        <dl class="ficha">
+          <div><dt>Editorial</dt><dd>{libroES.editorial}</dd></div>
+          <div><dt>Primera edición</dt><dd>Caracas, {libroES.anio}</dd></div>
+          <div><dt>Páginas</dt><dd>{libroES.paginas}</dd></div>
+          <div><dt>ISBN</dt><dd>{libroES.isbn}</dd></div>
+        </dl>
+      </div>
+    </div>
+  </section>
+
+  <section class="seccion">
+    <div class="contenedor">
+      <p class="etiqueta">Contenido</p>
+      <h2>Los ocho capítulos</h2>
+      <p class="nota">Puedes leer aquí los artículos que forman cada capítulo.</p>
+      <div class="capitulos">
+        {capitulos.map((c, i) => (
+          <details>
+            <summary><span class="num">{romanos[i]}</span> {c.titulo} <span class="nota">({c.articulos.length})</span></summary>
+            <ol>
+              {c.articulos.map((a) => <li><a href={`/articulos/${a.id}`}>{a.data.title}</a></li>)}
+            </ol>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="seccion blanca">
+    <div class="contenedor en-grid">
+      <Image src={cover} alt="Cover of Can You Be Happy in Venezuela?" widths={[200, 300]} sizes="200px" class="portada" />
+      <div lang="en">
+        <p class="etiqueta">English edition</p>
+        <h2>Can You Be Happy in Venezuela?</h2>
+        <p><em>Faith, Hope and Joy from a Mother Who Chose to Stay</em></p>
+        <a class="boton secundario" href="/en/book">Read more in English</a>
+      </div>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .libro-grid { display: grid; grid-template-columns: 340px 1fr; gap: 56px; align-items: start; }
+  .portada { box-shadow: 0 20px 40px -18px rgba(0,0,0,.45); border-radius: 2px; }
+  .h-compra { font-size: 1.3rem; margin-top: 28px; }
+  .ficha { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; margin: 28px 0 0; padding: 16px 0 0; border-top: 1px solid var(--borde); }
+  .ficha dt { font-size: .78rem; text-transform: uppercase; letter-spacing: .1em; color: var(--gris); }
+  .ficha dd { margin: 2px 0 0; font-weight: 600; }
+  .capitulos { margin-top: 20px; }
+  details { background: var(--blanco); border: 1px solid var(--borde); margin-bottom: 8px; border-radius: 2px; }
+  summary { cursor: pointer; padding: 16px 18px; font-family: var(--serif); font-size: 1.15rem; }
+  .num { color: var(--oro); font-weight: 600; margin-right: 6px; }
+  details ol { margin: 0 0 16px; padding: 0 18px 0 48px; }
+  details li { margin: 6px 0; }
+  .en-grid { display: grid; grid-template-columns: 200px 1fr; gap: 40px; align-items: center; }
+  @media (max-width: 760px) {
+    .libro-grid, .en-grid { grid-template-columns: 1fr; gap: 24px; }
+    .portada { max-width: 240px; }
+  }
+</style>

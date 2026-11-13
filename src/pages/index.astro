@@ -1,0 +1,96 @@
+---
+import { getCollection } from 'astro:content';
+import { Image } from 'astro:assets';
+import Base from '../layouts/Base.astro';
+import TarjetaArticulo from '../components/TarjetaArticulo.astro';
+import BotonesCompra from '../components/BotonesCompra.astro';
+import { libroES, temas, slugTema } from '../data/sitio';
+import retrato from '../assets/maria-denisse-retrato.png';
+import portada from '../assets/portada-es.jpg';
+
+const articulos = (await getCollection('articulos')).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+const destacados = ['nuestra-mision-esta-aqui', 'podemos-los-venezolanos-ser-felices', 'no-se-vayan']
+  .map((id) => articulos.find((a) => a.id === id))
+  .filter((a) => a !== undefined);
+const total = articulos.length;
+---
+<Base>
+  <section class="hero">
+    <div class="contenedor hero-grid">
+      <div>
+        <p class="etiqueta">Periodista · Escritora · Columnista</p>
+        <h1>María Denisse Fanianos de Capriles</h1>
+        <hr class="linea" />
+        <p class="intro">
+          Durante varios años escribió cada semana en el diario <em>El Universal</em> sobre la vida diaria
+          de los venezolanos: la familia, la fe, los que se van y los que se quedan. Aquí están reunidas sus columnas.
+        </p>
+        <div class="botones">
+          <a class="boton" href="/articulos">Leer sus artículos</a>
+          <a class="boton secundario" href="/libro">Conocer el libro</a>
+        </div>
+      </div>
+      <Image src={retrato} alt="María Denisse Fanianos de Capriles" widths={[320, 480, 640]} sizes="(max-width: 760px) 70vw, 380px" class="hero-foto" loading="eager" />
+    </div>
+  </section>
+
+  <section class="seccion">
+    <div class="contenedor">
+      <p class="etiqueta">Para empezar</p>
+      <h2>Tres columnas para conocerla</h2>
+      <ul class="lista-articulos">
+        {destacados.map((a) => <TarjetaArticulo articulo={a} />)}
+      </ul>
+      <p style="margin-top:24px"><a href="/articulos">Ver los {total} artículos →</a></p>
+    </div>
+  </section>
+
+  <section class="seccion blanca">
+    <div class="contenedor libro-grid">
+      <a href="/libro" class="libro-portada">
+        <Image src={portada} alt={`Portada del libro ${libroES.titulo}`} widths={[240, 360, 480]} sizes="(max-width: 760px) 60vw, 300px" />
+      </a>
+      <div>
+        <p class="etiqueta">Su libro</p>
+        <h2>{libroES.titulo}</h2>
+        <p class="intro"><em>{libroES.subtitulo}</em></p>
+        <p>
+          Una selección de sus columnas en <em>El Universal</em> entre 2011 y 2015, ordenada en ocho capítulos.
+          Un libro sobre la alegría, la solidaridad, el servicio y la esperanza.
+          También disponible en inglés: <a href="/en/book"><em>Can You Be Happy in Venezuela?</em></a>
+        </p>
+        <div class="botones" style="margin-bottom:12px">
+          <a class="boton" href="/libro">Ver el libro</a>
+        </div>
+        <BotonesCompra enlaces={libroES.compra} aviso="" />
+      </div>
+    </div>
+  </section>
+
+  <section class="seccion">
+    <div class="contenedor">
+      <p class="etiqueta">Temas</p>
+      <h2>Leer por tema</h2>
+      <ul class="temas">
+        {temas.map((t) => <li><a href={`/articulos?tema=${slugTema(t)}`}>{t}</a></li>)}
+      </ul>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .hero { background: var(--blanco); border-bottom: 1px solid var(--borde); padding: 56px 0; }
+  .hero-grid { display: grid; grid-template-columns: 1.4fr 1fr; gap: 48px; align-items: center; }
+  .hero-foto { width: 100%; max-width: 380px; justify-self: end; border-radius: 4px; box-shadow: 0 18px 40px -20px rgba(29,42,71,.45); }
+  .libro-grid { display: grid; grid-template-columns: 300px 1fr; gap: 48px; align-items: center; }
+  .libro-portada img { box-shadow: 0 20px 40px -18px rgba(0,0,0,.45); border-radius: 2px; }
+  .temas { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 12px; }
+  .temas a { display: block; padding: 16px 18px; background: var(--blanco); border: 1px solid var(--borde); border-left: 3px solid var(--oro); text-decoration: none; font-family: var(--serif); font-size: 1.05rem; border-radius: 2px; }
+  .temas a:hover { border-color: var(--oro); color: var(--tinta); }
+  @media (max-width: 760px) {
+    .hero { padding: 32px 0; }
+    .hero-grid, .libro-grid { grid-template-columns: 1fr; gap: 28px; }
+    .hero-foto { justify-self: center; max-width: 280px; order: -1; }
+    .libro-portada { max-width: 220px; }
+  }
+</style>

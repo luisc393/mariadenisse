@@ -1,0 +1,14 @@
+---
+interface Props { enlaces: { tienda: string; url: string }[]; aviso?: string }
+const { enlaces, aviso = 'Muy pronto: enlaces de compra.' } = Astro.props;
+const activos = enlaces.filter((e) => e.url);
+---
+{activos.length > 0 ? (
+  <div class="botones">
+    {activos.map((e, i) => (
+      <a class={i === 0 ? 'boton' : 'boton secundario'} href={e.url} target="_blank" rel="noopener">{e.tienda}</a>
+    ))}
+  </div>
+) : (
+  <p class="nota">{aviso}</p>
+)}

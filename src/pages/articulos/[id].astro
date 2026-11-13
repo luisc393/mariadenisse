@@ -1,0 +1,55 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import { fechaLarga, slugTema, libroES } from '../../data/sitio';
+
+export async function getStaticPaths() {
+  const articulos = (await getCollection('articulos')).sort((a, b) => a.data.date.valueOf() - b.data.date.valueOf());
+  return articulos.map((articulo, i) => ({
+    params: { id: articulo.id },
+    props: { articulo, anterior: articulos[i - 1], siguiente: articulos[i + 1] },
+  }));
+}
+
+const { articulo, anterior, siguiente } = Astro.props;
+const { Content } = await render(articulo);
+const d = articulo.data;
+const resumen = (articulo.body ?? '').replace(/\\([*_.#])/g, '$1').split(/\n\s*\n/)[0]?.slice(0, 160) ?? '';
+---
+<Base titulo={d.title} descripcion={resumen}>
+  <article>
+    <header class="cabeza-articulo lectura">
+      <p class="etiqueta">{d.tema ? <a href={`/articulos?tema=${slugTema(d.tema)}`}>{d.tema}</a> : 'Artículo'}</p>
+      <h1>{d.title}</h1>
+      <p class="meta">María Denisse Fanianos de Capriles · {d.medio}, {fechaLarga(d.date)}</p>
+      <hr class="linea" />
+    </header>
+    <div class="lectura articulo">
+      <Content />
+    </div>
+    <footer class="lectura pie-articulo">
+      {d.libro && (
+        <p class="caja-libro">
+          Este artículo forma parte del libro <a href="/libro"><em>{libroES.titulo}</em></a>.
+        </p>
+      )}
+      {d.enlaceOriginal && <p class="nota"><a href={d.enlaceOriginal} target="_blank" rel="noopener">Ver publicación original</a></p>}
+      <nav class="navegacion" aria-label="Más artículos">
+        {anterior ? <a href={`/articulos/${anterior.id}`}><small>← Anterior</small>{anterior.data.title}</a> : <span></span>}
+        {siguiente ? <a href={`/articulos/${siguiente.id}`} class="der"><small>Siguiente →</small>{siguiente.data.title}</a> : <span></span>}
+      </nav>
+      <p><a href="/articulos">Volver a todos los artículos</a></p>
+    </footer>
+  </article>
+</Base>
+
+<style>
+  .etiqueta a { color: var(--oro); text-decoration: none; }
+  .pie-articulo { margin-top: 24px; }
+  .caja-libro { background: var(--blanco); border: 1px solid var(--borde); border-left: 3px solid var(--oro); padding: 14px 18px; }
+  .navegacion { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 32px 0 16px; border-top: 1px solid var(--borde); padding-top: 20px; }
+  .navegacion a { text-decoration: none; font-family: var(--serif); font-size: 1.05rem; }
+  .navegacion small { display: block; font-family: var(--sans); color: var(--gris); font-size: .8rem; margin-bottom: 2px; }
+  .navegacion .der { text-align: right; }
+  @media (max-width: 560px) { .navegacion { grid-template-columns: 1fr; } .navegacion .der { text-align: left; } }
+</style>

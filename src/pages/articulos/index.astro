@@ -1,0 +1,93 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import TarjetaArticulo from '../../components/TarjetaArticulo.astro';
+import { temas, slugTema } from '../../data/sitio';
+
+const articulos = (await getCollection('articulos')).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+const anios = [...new Set(articulos.map((a) => a.data.date.getUTCFullYear()))].sort((a, b) => b - a);
+const temasUsados = temas.filter((t) => articulos.some((a) => a.data.tema === t));
+---
+<Base titulo="Artículos" descripcion="Archivo de las columnas de opinión de María Denisse Fanianos de Capriles en El Universal y otros medios.">
+  <section class="seccion">
+    <div class="contenedor">
+      <p class="etiqueta">Archivo</p>
+      <h1>Artículos</h1>
+      <p class="intro" style="max-width:720px">
+        Columnas de opinión publicadas cada semana en <em>El Universal</em> desde enero de 2011.
+        Muchas fueron reproducidas en otros portales de Venezuela y del exterior.
+      </p>
+
+      <form class="filtros" id="filtros" role="search" onsubmit="return false">
+        <label>
+          <span>Buscar</span>
+          <input type="search" id="f-texto" placeholder="Palabra o título" autocomplete="off" />
+        </label>
+        <label>
+          <span>Año</span>
+          <select id="f-anio">
+            <option value="">Todos</option>
+            {anios.map((a) => <option value={a}>{a}</option>)}
+          </select>
+        </label>
+        <label>
+          <span>Tema</span>
+          <select id="f-tema">
+            <option value="">Todos</option>
+            {temasUsados.map((t) => <option value={t} data-slug={slugTema(t)}>{t}</option>)}
+          </select>
+        </label>
+      </form>
+      <p class="nota" id="contador" aria-live="polite">{articulos.length} artículos</p>
+
+      <ul class="lista-articulos" id="lista">
+        {articulos.map((a) => <TarjetaArticulo articulo={a} />)}
+      </ul>
+      <p class="nota" id="vacio" hidden>No hay artículos con esos filtros.</p>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .filtros { display: grid; grid-template-columns: 2fr 1fr 2fr; gap: 12px; margin: 28px 0 8px; }
+  .filtros label { display: flex; flex-direction: column; gap: 4px; font-size: .85rem; color: var(--gris); font-weight: 600; }
+  .filtros input, .filtros select { font: inherit; font-size: 1rem; padding: 10px 12px; border: 1px solid var(--borde); border-radius: 4px; background: var(--blanco); color: var(--tinta); width: 100%; }
+  @media (max-width: 760px) { .filtros { grid-template-columns: 1fr; } }
+</style>
+
+<script>
+  const lista = document.getElementById('lista')!;
+  const items = Array.from(lista.querySelectorAll<HTMLLIElement>('.tarjeta'));
+  const fTexto = document.getElementById('f-texto') as HTMLInputElement;
+  const fAnio = document.getElementById('f-anio') as HTMLSelectElement;
+  const fTema = document.getElementById('f-tema') as HTMLSelectElement;
+  const contador = document.getElementById('contador')!;
+  const vacio = document.getElementById('vacio')!;
+  const norm = (s: string) => s.normalize('NFKD').replace(/[̀-ͯ]/g, '').toLowerCase();
+  const textos = items.map((li) => norm(li.textContent || ''));
+
+  // Leer filtros de la dirección (?tema=...&anio=...)
+  const params = new URLSearchParams(location.search);
+  const temaSlug = params.get('tema');
+  if (temaSlug) {
+    const opt = Array.from(fTema.options).find((o) => o.dataset.slug === temaSlug);
+    if (opt) fTema.value = opt.value;
+  }
+  if (params.get('anio')) fAnio.value = params.get('anio')!;
+
+  function aplicar() {
+    const q = norm(fTexto.value.trim());
+    let n = 0;
+    items.forEach((li, i) => {
+      const ok = (!fAnio.value || li.dataset.anio === fAnio.value)
+        && (!fTema.value || li.dataset.tema === fTema.value)
+        && (!q || textos[i].includes(q));
+      li.hidden = !ok;
+      if (ok) n++;
+    });
+    contador.textContent = n === 1 ? '1 artículo' : `${n} artículos`;
+    vacio.hidden = n !== 0;
+  }
+  [fTexto, fAnio, fTema].forEach((el) => el.addEventListener('input', aplicar));
+  aplicar();
+</script>
