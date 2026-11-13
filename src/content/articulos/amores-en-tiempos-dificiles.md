@@ -6,8 +6,6 @@ libro: false
 # origen: Drive 1sNUGk8FTf6uhxm9ENwGKEKI7xNsFBP3A
 ---
 
-MARÍA DENISSE FANIANOS DE CAPRILES EL UNIVERSAL
-
 Si hay algo bueno que ha tenido esta crisis que hemos vivido durante estos últimos años en Venezuela, es que las dificultades han logrado que muchos matrimonios estén más unidos y enamorados que nunca. Algunos, como explicaré más adelante, están viviendo verdaderos amores "de película".
 
 Y es que está pasando algo muy sencillo en la gran mayoría de los hogares venezolanos. Cuando el esposo o la esposa ven llegar al otro cónyuge a la casa "doblado" del cansancio y de la presión por los miles y miles de problemas que está cargando encima, el otro cónyuge (por más doblado y tenso que se encuentre, porque a él o ella también le está tocando muy duro) lo menos que se le ocurre es ponerse a quejar de las contrariedades que ha pasado en el día. Al contrario, se recibe al otro con una gran sonrisa en la cara, y mucho más si éste viene con un paquete de papel toilette o de harina PAN. Quedaron atrás aquellos tiempos en que se regalaban unas rosas rojas, porque ahora el mejor regalo que se puede dar es un paquete de alguna provisión básica para la familia.

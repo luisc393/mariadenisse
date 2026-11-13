@@ -1,0 +1,17 @@
+---
+title: "Scandals in the Church"
+---
+
+What is the argument some people use most often whenever a Catholic speaks about something immoral in society, or tells others how wonderful it is to walk the "narrow way"? Pedophile priests. Yes, those of us Catholics who love God and Our Holy Catholic Church are carrying the cross those men left us. But although that cross is heavy and painful, we carry it with humility, hope and joy, because we offer it for the conversion of so many people who have strayed from their path.
+
+All the evil they did (and which has been pinned on lay people, consecrated people, priests, religious and so on, all of us who speak unashamedly about God, His Truth and the Way to follow to live fully) will never! stop us from going forward, defending values in the face of anti-values.
+
+And I ask: how is it possible that, despite what these sorry individuals did (who, besides, are a tiny number compared with all the priests in the world, a minimal number in Latin America and less than minimal in our country), the Catholic Church is at this moment more Alive and Young than ever? Today thousands of lay people and priests who lead exemplary lives live among us, devoted to serving others. They are human beings who pray and struggle every day to stay very close to God, to be humble and sincere with their confessors, and so not to fall into terrible things like those these others fell into.
+
+Every country has striking examples. We saw Spain at the huge World Youth Day (a country where, on the one hand, there is a great crisis of values, but on the other there are thousands of Catholic families, with many children, who have kept their faith and morals in an incredible way). In Africa and elsewhere in the world, thousands of Catholics (lay people, priests, nuns and so on) are giving their lives educating children, caring for the sick and the elderly, feeding the hungry and so on. We also see young people (well into the 21st century) who have money, work, good looks and so on, and leave EVERYTHING to give themselves completely to God. But that is never news!
+
+And do you know why all this is so? Because we Catholics believe in the Church not because of the men who make it up, nor because of a Pope I may like or not, nor because of this or that priest... We believe in the Church because of Jesus Christ, who is GOD, and who said to Peter: "You are Peter, and on this rock I will build My Church, and the gates of hell shall not prevail against it" (Mt 16:18). Just look at the more than 2,000 years our Church has been alive, with all the weeds that may be growing within it.
+
+Thanks to globalization we learned of the terrible things the pedophiles did, and the Pope himself has asked forgiveness and said there will be zero tolerance! on this matter, and that the Church must respond with stricter rules and seek the cooperation of civil justice (Benedict XVI, Light of the World) so that cases like these never happen again. Many of us lay people are ready to stand by our priests, and we know it is our duty and our right (because the Pope himself has told us so) to report immediately any abuse we learn of.
+
+So here we will remain, with more hope than ever, taking the Truth to every corner of the earth, so that EVERYONE may understand that the only thing that can give true happiness, and lead to full Justice and Peace, is to live along the Way Our Lord Jesus Christ left us!

@@ -1,0 +1,19 @@
+---
+title: "The Church and Homosexual People"
+---
+
+Here I share the answer Benedict XVI gave in Malta (in 2010) to a young man who asked him why the Church marginalized homosexual people and why, if God is Love, Saint Paul had written such strong words against homosexual acts. What follows is the substance of the Holy Father's reply, in my own words.
+
+Addressing the young people of Malta and Gozo, the Pope gave thanks to God for having sent the Apostle Paul to those islands, among the first places to receive the Good News of Our Lord Jesus Christ. He thanked them for the trust with which they had spoken to him about the problems that concern them most, and said he appreciated their desire to seek and find the truth and to know what they must do to reach a full life.
+
+He recalled that as a young man Saint Paul had an experience that changed his life forever. He had been an enemy of the Church and did everything he could to destroy it. On the road to Damascus, intending to arrest every Christian he found there, he saw the Lord in a vision: a blinding light surrounded him and he heard a voice saying, "Why are you persecuting me?... I am Jesus, whom you are persecuting" (Acts 9:4-5). Overwhelmed by this encounter, Paul's whole life changed; he became a disciple and then a great apostle and missionary.
+
+Every personal encounter with Jesus, the Pope said, is an overwhelming experience of love. Paul himself admits that he had once furiously persecuted the Church of God and tried to destroy it (cf. Gal 1:13), but that hatred and rage were completely dissolved by the power of Christ's love, and for the rest of his life he burned with the desire to take the news of that love to the ends of the earth.
+
+Some might say, the Pope continued, that Saint Paul was sometimes severe in his writings, so how can one claim he spread a message of love? His answer was that God loves each of us with a depth and intensity we cannot even imagine. He knows us intimately, with all our abilities and all our faults. Because he loves us so much, he wants to purify us of our faults and strengthen our virtues so that we may have life in abundance. Even when he corrects us because something in our life displeases him, he does not reject us; he asks us to change and to grow in perfection.
+
+God rejects no one, the Pope said, and the Church rejects no one either. Rather, in his great love, God challenges each of us to change and become better. Saint John tells us that perfect love casts out all fear (cf. 1 Jn 4:18), and so the Pope told them all: "Do not be afraid."
+
+He warned them that they would certainly meet opposition to the Gospel message. Today's culture, like any culture, promotes ideas and values that sometimes clash with those Our Lord Jesus Christ lived and preached, and these ideas are sometimes presented very persuasively, reinforced by the media and by social pressure from groups hostile to the Christian faith. When we are young and impressionable, he said, it is easy to be swayed into accepting ideas and values we know are not what the Lord truly wants for us. So he repeated: do not be afraid; rejoice in his love for you, trust him, answer his invitation to be his disciples, and find nourishment and spiritual help in the sacraments of the Church.
+
+Finally, he told all Christians that we are called to show God's love, which includes everyone. That is why we must help the poor, the weak and the marginalized; care especially for those going through difficult times, for those who suffer from depression or anxiety; look after people with disabilities and do everything in our power to promote their dignity and quality of life; and hold out a friendly hand to believers and non-believers alike. This, he said, is the noble vocation of love and service we have all received, and he urged the young people to let it move them to devote their lives to following Christ: "Do not be afraid to be close friends of Christ!"

@@ -1,0 +1,21 @@
+---
+title: "Strong in Hard Times"
+---
+
+How proud I am to be Venezuelan!
+
+Today I want to share in these lines the immense pride I feel in being Venezuelan. Having lived in this beloved land for 46 years, fighting to move my family and my country forward, and seeing how every day we face our thousands of problems with joy and hope, is priceless! But what fills me with the most pride is how we have been learning and moving forward, little by little and with great patience, along the path of Peace and of exercising our democratic rights.
+
+Today I want to thank the many millions of Venezuelans (from every sector of society) who, from the moment they get up until they go to bed, fight day after day, with integrity, to move their families forward and to help this country advance along a path of values, integrity, work, unity and Peace. I am infinitely grateful to those heroes who, despite being threatened, voted for a change of course for the country. A million thanks to everyone who gave their time, and even risked their lives, defending the votes of each of their Venezuelan brothers and sisters. I am infinitely grateful to many of our political leaders who, though they could pack their bags and go live in another country, are here, wearing themselves out to the bone.
+
+How can I not be proud of so many people who went to vote for a different path, the one we believe will lead us to rebuild a country full of problems that affect us all? A country where those of us who ride the bus, or don't have armored cars, risk our lives or our families' lives every day. A country where thousands of people have to stand in line for hours to get a package of corn flour, a chicken or a roll of toilet paper. A country where prices are higher every time we go to the market. A country where so many young people (and many not so young) can't find a stable job. A country where electrical appliances break down because of the daily blackouts. But a vast majority of our people have now understood that another way must be found to solve these problems.
+
+How can we not be proud of a people who, peacefully!, banging pots and pans (without spending a cent on very expensive fireworks), managed to have our right to a vote count respected? How can I not be proud of mothers like Elis Torres Rojas, who, like many other Venezuelan mothers, is fighting to educate her children, and who voted for the government and bravely recorded a video earnestly asking for the votes to be counted for the good of all Venezuelans? http://www.youtube.com/watch?v=q6hZsBv\_foY
+
+After my article last week I received several emails from different countries in Latin America, several of them from Cuba, telling us to keep up the struggle and not to lose heart. The eyes of the whole world are on us, watching our struggle. And we must be an example to the world. Our struggle must be patient, always sowing peace and joy around us, because those of us who love our homeland, our children and all the children of our fellow Venezuelans cannot harbor even the slightest hatred in our hearts.
+
+How proud I am to be learning firsthand what it means to fight for truth, freedom, justice and peace to reign! How proud to experience firsthand the immense meaning of the word patience, which has nothing to do with resignation or getting used to things! That word, Patience!, is vital in our struggle to keep moving forward, step by step, very peacefully demanding the rights we have as Venezuelan citizens.
+
+A few days ago a very wise person told me: "Virtue is strengthened in weakness, in adversity." Well, here we are, growing stronger in adversity, with great faith and great hope, because we are sure that we will indeed be able to live in a country where Truth, Justice and Peace reign for all.
+
+Each one of us, starting with our authorities, is responsible for Justice and Peace reigning in our homeland. And a thousand thanks to everyone for the grain of sand each of you is contributing at this momentous stage in Venezuela's history. That includes the many people all over the world who are giving us their support and their prayers. We will keep going, and we ask God and the Blessed Virgin of Coromoto to fill us with abundant blessings and deliver us from all evil.

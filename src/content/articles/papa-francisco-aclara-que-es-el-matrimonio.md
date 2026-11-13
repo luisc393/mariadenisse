@@ -1,0 +1,19 @@
+---
+title: "Pope Francis Clarifies What Marriage Is"
+---
+
+Last week Pope Francis's first encyclical, Lumen Fidei, was published, with a great contribution from Pope Emeritus Benedict XVI.
+
+In it Pope Francis speaks about Faith and its relationship to every sphere of human and social life. He also develops two very topical subjects. One is the meaning of marriage, which is very important to read and understand in the face of demands from some sectors that want to use this term for unions that are not marriages. The other very topical subject the Pope addresses is the meaning of true love, so relevant given the great number of marital separations justified on the grounds that "the love ran out."
+
+Below I summarize what he says on these subjects, and here is the link so you can read the full encyclical: http://www.aciprensa.com/pdf/lumenfidei.pdf
+
+On marriage, the Pope recalls that on Abraham's journey toward the future city, the Letter to the Hebrews speaks of a blessing handed down from parents to children, and that the first setting that faith illumines in the human city is the family. He thinks above all of marriage, the stable union of a man and a woman, which is born of their love, a sign and presence of God's love, and of the recognition and acceptance of the goodness of sexual difference, which allows the spouses to become one flesh and to give birth to new life, a manifestation of the Creator's goodness, wisdom and loving plan. Grounded in this love, a man and a woman can promise each other mutual love with a gesture that commits their whole lives. Promising love forever is possible, he says, when we discover a plan greater than our own projects, one that sustains us and allows us to give our whole future to the beloved. Faith also helps us grasp the depth and richness of bringing children into the world, because it lets us recognize in it the creative love that gives us and entrusts to us the mystery of a new person.
+
+On true love, he observes that modern man thinks love has little to do with truth, and sees it as an experience belonging to the world of fickle feelings. But love, he says, cannot be reduced to a feeling that comes and goes. It does involve our affections, but in order to open them to the beloved and set out on a path that leads us out of the isolation of the self toward the other person, to build a lasting relationship; love tends toward union with the beloved. That is why love needs truth: only when it is grounded in truth can love endure over time, rise above the fleeting moment and stand firm to sustain a shared journey. If love has nothing to do with truth, it is at the mercy of shifting emotions and cannot stand the test of time. True love, by contrast, unifies every part of the person and becomes a new light toward a great and full life. Without truth, he concludes, love cannot offer a solid bond, cannot draw the "I" out of its isolation or free it from the fleeting moment in order to build a life and bear fruit.
+
+For those who ask "What is Truth?", I answer with what Jesus Christ himself said: "I am the Way, the Truth and the Life" (Jn 14:6). If we want to find the truth and live in the truth, we must walk the path Christ taught us, which our Holy Catholic Church guards and spreads.
+
+There is really nothing more to say after reading these two powerful passages from Pope Francis. Very clear ideas that we can reflect on and discuss with our spouse. Ideas that should make those who want to extend the concept of marriage to unions that are not marriages stop and reconsider.
+
+I take this opportunity to thank Pope Francis for such an excellent encyclical, a wonderful light at this time of so much darkness for families all over the world, when it is vital to make the Truth of things clear so that moral relativism does not go on doing so much harm to society.

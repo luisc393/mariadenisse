@@ -1,0 +1,19 @@
+---
+title: "Who May Receive Communion?"
+---
+
+Today I will share with you more of the teaching we received, the 1,300 Catholics who attended the Fourth National Eucharistic Congress held in Caracas last June. I do so because many people thanked me for the article "I'm a Non-Practicing Catholic," which helped them see how important and how Great it is to attend Mass every Sunday.
+
+I will take up another subject on which some Catholics are not very clear: who may receive Holy Communion? To explain it briefly, I will draw on the Manual that the Liturgy Department of the Venezuelan Bishops' Conference gave the participants at that Congress, summarizing it in my own words.
+
+The Manual describes sacramental Communion as the most loving, profound, certain and sanctifying spiritual encounter we can have with Christ in this world, a mystery of love and grace that human language can barely express. In Communion, it explains, Christ gives himself as food, as the "living bread come down from heaven," gradually transforming into himself those who receive him. To those who welcome him with faith and love he promises immortality, abundant life and future resurrection, and even a perfect living union with him: "Whoever eats my flesh and drinks my blood remains in me, and I in him… whoever eats me will live because of me" (Jn 6:56-57) (p. 73).
+
+Those who receive Communion, the Manual continues, receive the Father's heavenly medicine, the only one that can heal their spiritual illnesses, and the presence and action of the Holy Spirit, "the Spirit of Jesus" (Acts 16:7), grows in their hearts (p. 74).
+
+To receive Communion, however, certain outward and inward dispositions are required. I will focus on the inward ones; anyone who wants to go deeper can consult the Catechism of the Catholic Church (and I am happy to send anyone the material they need by email).
+
+On the inward dispositions, the Manual recalls that Saint Paul speaks clearly about the possibility of unworthy Communions: whoever eats the bread or drinks the cup of the Lord unworthily will be answerable for the body and blood of the Lord; so let each one examine himself before eating the bread and drinking the cup, for whoever eats and drinks without discerning the body eats and drinks judgment on himself, and that, Paul says, is why many among them were weak and sick and some had died (cf. 1 Cor 11:27-30) (p. 75).
+
+The Manual then notes that the Council of Trent called the Eucharist an antidote that frees us from daily faults and preserves us from mortal sins, and it summarizes the Church's teaching in five points. First, Communion is open to all Christ's faithful of every rank and condition, and no one may be kept from it provided they are in a state of grace and come with a right and devout intention. Second, a right intention means not coming out of routine, vanity or human respect, but to do God's will, to be united more closely with him in charity, and to remedy one's weaknesses and faults with that divine medicine. Third, although it is highly desirable to be free of venial sins, at least fully deliberate ones, and of attachment to them, it is enough not to have mortal sins, with a resolution not to sin again. Fourth, Communion should be preceded by careful preparation and followed by suitable thanksgiving. Fifth, one should seek the advice of one's confessor, though confessors should not keep anyone from frequent or daily Communion who is in a state of grace and comes with a right intention (cf. Denzinger 3375-3383) (p. 77).
+
+I hope these brief notes have shed some light on the question of who may receive Communion. Still, I recommend consulting your catechism and your parish priest, so that we are well prepared when we come to the Lord's Table to receive his Body and Blood with the purity, humility and devotion with which his Most Holy Mother received him, and with the spirit and fervor of the saints.

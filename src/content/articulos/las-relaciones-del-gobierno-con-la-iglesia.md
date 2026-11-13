@@ -6,11 +6,11 @@ libro: false
 # origen: Drive 1enoN8zeTyYcKNDRqI6NLoeS96spkJvL5
 ---
 
-Uno que le viene siguiendo el paso a paso a las relaciones de este gobierno con la iglesia no entiende muchas cosas. La semana pasada nuevamente nuestro Cardenal Urosa fue blanco de insulto por parte del ministro del interior cuando éste le dijo que se cambiara la sotana por una amarilla luego de que el cardenal había dicho lo siguiente en en una entrevista que le realizó Carlos Croes en Televen: “
+Uno que le viene siguiendo el paso a paso a las relaciones de este gobierno con la iglesia no entiende muchas cosas. La semana pasada nuevamente nuestro Cardenal Urosa fue blanco de insulto por parte del ministro del interior cuando éste le dijo que se cambiara la sotana por una amarilla luego de que el cardenal había hablado con franqueza en una entrevista que le realizó Carlos Croes en Televen.
 
 Es lamentable que quienes gobiernan en este país crean que están dando órdenes en un cuartel. Es una especie de haz lo que yo diga y quédate calladito. Cuidado con decir lo que no me conviene. Pero de esa falta de madurez a faltarle el respeto a nuestro máximo líder de la iglesia hay una gran diferencia porque aunque algunos no lo quieran ver, ¡ni entender! Nuestra Santa Iglesia católica venezlana (con sus ejemplares obispos, sacerdotes, religioso/as, laicos, etc) no vamos a permitir que sigan insultanto y maltratando a nuestras principales autoridades eclesiásticas y mucho menos le falten el respeto.
 
-Si ustedes quieren diálogo con la Iglesia, no basta con tomarse una foto con el Papa. El problema va mucho mñas allá Dialogar es oir a la gente y no insultarla si dice algo distinto a lo que nosotros creemos.
+Si ustedes quieren diálogo con la Iglesia, no basta con tomarse una foto con el Papa. El problema va mucho más allá. Dialogar es oír a la gente y no insultarla si dice algo distinto a lo que nosotros creemos.
 
 Por otra parte leyendo la entrevista de Carlos Croes me preocupa mucho algo que señala allí el cardenal: los seguidos robos a la CEV (justo después que comenzaron el diálogo) y donde lo que principalmente se robaron fue información. Por una parte eso me preocupa porque se llevan años de trabajo (los miembros de nuestra iglesia tienen muchísimo trabajo y ahora aún más porque el ministro les encargó la difícil labor de ayudar en desarmar a los delincuentes ¡Eso yo no lo he visto en ningún país del mundo! Pero como siempre nuestros ejemplares pastores colaborarán en dicha tarea así tengan que dormir dos horas al día.
 

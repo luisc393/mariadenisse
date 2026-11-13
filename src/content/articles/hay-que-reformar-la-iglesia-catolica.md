@@ -1,0 +1,21 @@
+---
+title: "Does the Catholic Church Need Reforming?"
+---
+
+It is very painful to see how some people who were Catholics (priests or lay people) and who were not faithful to their personal vocation try, through articles, books or the media, to have the Catholic Church "reformed" to their liking.
+
+The Catholic Church, founded by Our Lord Jesus Christ more than 2,000 years ago, needs no reform in its doctrinal principles. Just ask the hundreds of thousands of Catholics (priests, men and women religious, and lay people) all over the world who live happily, striving to be saints, under the norms God instituted through His Son in His Holy Church. Not to mention the millions who are already saints and are in Heaven, many of them canonized saints.
+
+It is an indisputable fact that the Catholic Church has survived since its foundation keeping the deposit of faith intact, and that is because it is the Church founded by Our Lord Jesus Christ: "And I tell you that you are Peter, and on this rock I will build my Church, and the gates of hell shall not prevail against it" (Mt 16:18). Even though our Church is made up of human beings (some of whom have given very bad examples), it is still alive. The vitality of the Catholic faith is such that in recent years we have seen incredible conversions from other churches, whose members have come over to the Church of Christ in large numbers.
+
+Last Ash Wednesday, some 33 groups of Anglicans in the United Kingdom (including 20 pastors and 600 faithful) became Catholic (www.abc.es). In addition, on March 7 of this year, the head of the doctrinal office of the Congregation for the Doctrine of the Faith, Father Hermann Geissler, confirmed to the magazine The Portal that Pope Benedict XVI had received a request from a large group of Lutherans who wish to return to the Church of Rome. This came after a massive group of Anglicans (nearly half a million, including bishops and priests) became Catholic in November 2009 through the structure of a personal ordinariate. Something never seen before!
+
+Those Anglicans said at the time that they wished to leave the Church of England because of internal reforms such as the ordination of women to the priesthood, the acceptance of homosexual bishops and the blessing of same-sex unions (www.aciprensa.com).
+
+A well-known American theologian and former Presbyterian minister, Scott Hahn, became a Catholic several years ago and tells the wonder of his conversion in his book Rome Sweet Home. The book is a bestseller in the United States and fortunately can be found in Venezuela. In it he tells how, by studying Sacred Scripture, he came to understand that God's Truth is found in the Catholic Church (something similar happened to the former Anglican Cardinal Newman, who was recently beatified in Britain).
+
+Hahn and his wife are now fervent Catholics who have brought hundreds of thousands of people closer to the Church and have published more than 12 books on subjects such as the Eucharist, the Virgin Mary and the rosary (for which they say they once had a "phobia"), the new family of God and openness to life, among many others. Scott Hahn and his wife Kimberly say that there is nothing like the privilege of going to Mass every day and receiving Holy Communion (something they once considered heresy).
+
+All that remains is to close my article by asking that we pray hard for those confused people who attack the Church. And rather than calling for reforms, what we must do is give an example of an upright life along the "narrow way" that Our Lord Jesus Christ left us. Because it can be done!, with the help of God and the Blessed Virgin. The example of our lives will be our "letter of recommendation," as Saint Paul said, so that many others may come to enjoy the wonder of being Catholic, apostolic and Roman.
+
+As Blessed John Paul II said: "We need heralds of the Gospel who are experts in humanity, who know the heart of today's man in depth, who share his joys and hopes, his anguish and sadness, and who are at the same time contemplatives, in love with God. For this we need new saints! The great evangelizers have been the saints. Let us beg the Lord to increase the spirit of holiness in the Church and to send us new saints to evangelize today's world."

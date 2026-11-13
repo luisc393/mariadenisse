@@ -1,0 +1,17 @@
+---
+title: "\"I Was Raised by a Same-Sex Couple\""
+---
+
+Last week the Bishop of Cabimas, William Delgado, expressed the Church in Zulia's rejection of the first pregnancy of a lesbian couple through in vitro fertilization, and stressed that the Catholic community does not support artificial insemination, in vitro fertilization or embryo transfer. He also predicted a very disordered society if same-sex couples with children become widespread. In light of this news, I share below the testimony of a woman who was raised in a homosexual household, so that you can draw your own conclusions.
+
+Dawn Stefanowicz is a Canadian woman who helps other people who, like her, grew up in the care of a homosexual father and were exposed to a way of life she would not wish on anyone and believes the law should not support. Together with others, she asks governments around the world to protect marriage between a man and a woman. On her website, www.dawnstefanowicz.org, she explains that because of her mother's serious illness, she was left in the care of her homosexual father when she was still a child.
+
+She recalls that she was exposed to a high risk of sexually transmitted diseases because of sexual abuse, her father's high-risk behavior and his many partners; even when he seemed to be in monogamous relationships, he kept looking for anonymous sex. She came to care deeply for her father and to love and understand him with compassion; he lived with depression, control issues, outbursts of rage, suicidal tendencies and sexual compulsion. Several of his former partners, whom she knew and grew fond of, had their lives cut short by AIDS and suicide. Sadly, her father died of AIDS in 1991.
+
+According to Stefanowicz, her personal, professional and social experiences with her father did not teach her respect for morality, authority, marriage or fatherly love. She felt fearfully silenced, because her father did not allow her to talk about him, his housemates or his way of life, and while she lived at home she had to live by his rules. She felt abandoned and rejected, because her father often left her to spend several days with his partners, who did not really take an interest in her. She says she was harmed by domestic abuse in that household.
+
+Stefanowicz recalls that from a young age she was exposed to sexually explicit talk, hedonistic lifestyles, gay subcultures and gay vacation spots, and to every kind of sexual expression. Drugs and alcohol often lowered inhibitions in her father's relationships.
+
+She explains that when she was eight her father encouraged unisex dress, gender-neutral ways and swapping clothes, and that she did not see the value of the biologically complementary differences between men and women. Nor did she think about marriage or having children, because she did not grow up in a safe home. More than two decades of direct exposure to these stressful experiences, she says, caused her insecurity, depression, suicidal thoughts, fear, anxiety, low self-esteem, insomnia and sexual confusion. Her conscience and her innocence were seriously damaged, and she saw that all the other members of the family suffered too.
+
+"In the end, children will be the real victims and the losers in homosexual adoptions. What hope can we offer innocent children who have no voice? Governments and judges must defend marriage between a man and a woman, for the good of our children," she concludes.

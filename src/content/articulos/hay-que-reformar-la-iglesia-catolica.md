@@ -24,6 +24,4 @@ Sólo me queda cerrar mi artículo pidiendo que recemos mucho por esas personas 
 
 Como decía el Beato Juan Pablo II: “Se necesitan heraldos del Evangelio expertos en humanidad, que conozcan a fondo el corazón del hombre de hoy, participen de sus gozos y esperanzas, de sus angustias y tristezas, y al mismo tiempo sean contemplativos, enamorados de Dios. ¡Para esto se necesitan nuevos santos! Los grandes evangelizadores han sido los santos. Supliquemos al Señor que aumente el espíritu de santidad en la Iglesia y nos mande nuevos santos para evangelizar el mundo de hoy”.
 
-:-:
 
-:-:

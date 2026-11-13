@@ -1,0 +1,21 @@
+---
+title: "To Start 2014 Well"
+---
+
+A few days into this new year, I want to share in my column today the New Year's Message that our Cardinal Jorge Urosa Savino addressed to all the faithful of Caracas. It is a clear message that helps us continue our struggle to be better Christians every day and, therefore, to build a better society for everyone. Here are its main points.
+
+Under the title "Let us draw near to God and be instruments of peace!", the Cardinal begins by saying that we all want a very happy new year, which is natural, because happiness is one of the deepest longings of our hearts: God created us precisely so that we might be happy. God is supreme happiness and made us in his image and likeness. That is why he sent Jesus, his eternal Son made man, into the world; why Jesus died on the cross, conquering the devil, evil, sin and death; and why he rose again, opening the gates of heaven to us and letting us share in his glorious resurrection.
+
+We often think, he says, that happiness comes from money, power, pleasure, or satisfying our desires, whims and even our bad passions. But it does not. Jesus himself showed us the way to true happiness: joy, serenity, peace and happiness are found only on the path of goodness and love, specifically by hearing and keeping the Word of God. "Blessed are those who hear the word of God and keep it" (Lk 11:28).
+
+At the start of the year, he invites us to renew our faith and our decision to follow Jesus Christ, the author and source of happiness; to listen to his Word, the word of eternal life (Jn 6:68), and to keep it, as the Blessed Virgin Mary did (Lk 1:38); and to keep the Ten Commandments, the signposts that show us the way to happiness. He recalls Saint Paul's profound and realistic teaching: "The wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord" (Rom 6:23).
+
+United to God, he says, we will be able to overcome adversity and even the pain of failure, illness and death. He invites us to feel the joy of belonging to God's holy people, our Holy Catholic Church, and especially invites young people to welcome Christ as their leader, teacher and model, because He, who gave himself up to death so that we might have full and eternal life, does not let us down and opens the true path to happiness.
+
+Under the heading "Let us be instruments of peace," he recalls that Pope Francis, in his message for the 2014 World Day of Peace, points to fraternity as the foundation of peace. He invites us to live as brothers and sisters and to work constantly for peace in every family, in the community, at work and in social and political life. In particular, he asks us to pray and work for an end to crime, above all murderous violence, and for the government's plans to defeat it to improve and succeed; and to pray that leaders in every sector of social and political life make a constant effort at dialogue in order to solve the serious problems Venezuela faces today.
+
+He also urges us to pray fervently this year for the beatification of the Venerable Dr. José Gregorio Hernández, whose 150th birthday we will celebrate on October 26, 2014. The only requirement still missing for his beatification is the verification of a true miracle worked by God through his intercession, and he invites anyone who knows of a possible miracle to send full information to the Archbishop's Palace or to causajosegregorio@gmail.com.
+
+In conclusion, with deep hope in God, in whose hands lie the lives of individuals and nations, he invites us to begin 2014 resolved to walk the authentic path to happiness, which is living our faith; to accompany our New Year greetings with the determination to bring support, comfort, joy and peace to everyone we meet; to always be instruments of peace; to draw near to God through religious practice, especially Sunday Mass and the frequent reception of the sacraments of Reconciliation and Holy Communion; and to place in the loving hands of Holy Mary of Coromoto our intentions and hopes for peace for all Venezuelans. He ends by imparting his affectionate episcopal blessing.
+
+A thousand thanks, Cardinal, for your message and your blessing, which will help us start 2014 very well!

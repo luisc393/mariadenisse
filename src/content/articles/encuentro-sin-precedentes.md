@@ -1,0 +1,23 @@
+---
+title: "An Unprecedented Meeting"
+---
+
+Last Sunday an unprecedented meeting took place at the Vatican. The presidents of Israel, Shimon Peres, and of the Palestinian Authority, Mahmoud Abbas, joined Pope Francis to pray for Peace. Below I share part of the Pope's wonderful words, which can help us reflect on the difficult situation we Venezuelans are living through, and the Holy Father's beautiful prayer for Peace, in my own translation:
+
+"Mr. Presidents: … I thank you from the bottom of my heart for accepting my invitation to come here and ask God together for the gift of peace. I hope this meeting will be the start of a new path in search of what unites, in order to overcome what divides…
+
+Your presence, Mr. Presidents, is a great sign of fraternity, which you offer as children of Abraham, and a concrete expression of trust in God, the Lord of history, who today looks on us as one another's brothers and wishes to lead us along his ways. This meeting to pray for peace in the Holy Land, in the Middle East and in the whole world is accompanied by the prayer of so many people of different cultures, nations, languages and religions... It answers the burning desire of all who long for peace and dream of a world where men and women can live as brothers and sisters, not as adversaries or enemies.
+
+Mr. Presidents, the world is a legacy we have received from those who came before us, but it is also a loan from our children: children who are worn out by conflict and eager to reach the dawn of peace; children who ask us to tear down the walls of enmity and take the road of dialogue and peace, so that love and friendship may win. Many, far too many, of these children have fallen as innocent victims of war and violence, like plants uprooted in full bloom. It is our duty to make sure their sacrifice is not in vain. May their memory give us the courage of peace, the strength to persevere in dialogue at all costs, and the patience to weave, day after day, an ever stronger fabric of respectful and peaceful coexistence, for the glory of God and the good of all.
+
+Making peace takes courage, much more than making war. It takes courage to say yes to encounter and no to confrontation; yes to dialogue and no to violence; yes to negotiation and no to hostility; yes to keeping agreements and no to provocation; yes to sincerity and no to duplicity. All this requires courage and great strength of spirit. History teaches us that our own strength is not enough. More than once we have come close to peace, but the evil one, by various means, has managed to block it. That is why we are here: because we know and believe that we need God's help. We do not give up our responsibilities, but we call upon God as an act of the highest responsibility, before our consciences and before our peoples. We have heard a call, and we must answer it: the call to break the spiral of hatred and violence, and to overcome it with a single word: 'brother.' But to say this word, we must all lift our eyes to heaven and recognize one another as children of the same Father. It is to him that I turn, in the Spirit of Jesus Christ, asking the intercession of the Virgin Mary, daughter of the Holy Land and our Mother.
+
+Lord, God of peace, hear our plea. For many years and many times we have tried to solve our conflicts by our own strength, and by our weapons too: so many moments of hostility and darkness, so much blood shed, so many lives shattered, so many hopes crushed... But our efforts have been in vain.
+
+Now, Lord, help us. Give us peace, teach us peace, lead us to peace. Open our eyes and our hearts, and give us the courage to say: 'Never again war!' and 'With war, everything is lost.' Fill us with the courage to make concrete gestures that build peace.
+
+Lord, God of Abraham and the Prophets, God of love who created us and calls us to live as brothers and sisters, give us the strength to be builders of peace every day; give us the ability to look kindly on every brother and sister we meet along our way.
+
+Make us ready to hear the cry of our citizens, who ask us to turn our weapons into instruments of peace, our fears into trust and our tensions into forgiveness. Keep the flame of hope alive in us, so that with patient perseverance we may choose dialogue and reconciliation, and peace may finally win.
+
+And may these words be banished from every human heart: division, hatred, war. Lord, disarm our tongues and our hands, renew our hearts and minds, so that the word that brings us together may always be 'brother,' and our way of life may become shalom, peace, salaam. Amen."

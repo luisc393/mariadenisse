@@ -1,0 +1,13 @@
+---
+title: "Is There a Limit to Evil?"
+---
+
+To answer this question, in this column I turned to a passage from John Paul II's book Memory and Identity (2005), in which he is asked whether evil, which sometimes seems all-powerful and in absolute control of the world, has a limit it cannot cross.
+
+John Paul II answers from his own experience of what he calls the "ideologies of evil." First came Nazism, whose true scale many people, even those living in the middle of that whirlwind, only grasped little by little, because those responsible tried at all costs to hide their crimes from the world. The same happened later with communism in Eastern Europe. For a long time the West refused to believe in the extermination of the Jews, and even in Poland not everything was known about what the Nazis did to the Poles, or about the massacre of Polish officers at Katyn on Stalin's orders.
+
+When the war ended, he recalls, he thought that God had allowed Hitlerism twelve years and that, once that time was up, the system collapsed: that was the limit Divine Providence placed on such madness, or rather such "bestiality." Communism, which emerged from the war much stronger and more dangerous, and which sought to conquer Europe and the world, would clearly last longer. How long was hard to foresee. But he came to think that even this evil was, in a certain sense, an occasion for good, because in certain circumstances evil gives rise to opportunities for good. He recalls Goethe's description of the devil as part of a force that always wills evil and always ends up doing good, and Saint Paul's exhortation: "Do not be overcome by evil, but overcome evil with good" (Rom 12:21). After the painful experience of evil, he says, people come to practice a greater good.
+
+His central point is that the limit placed on evil in the history of Europe is precisely good: the divine and human good that has shown itself in history, over the last century and over many millennia. The evil one has suffered directly is not easily forgotten; it can only be forgiven. And to forgive, he says, means turning to the good, which is greater than any evil, a good whose source is in God alone, because only God is Good. That limit placed on evil by God's goodness entered human history, and the history of Europe in particular, through Christ. That is why Christ cannot be separated from the history of mankind, as he said in Warsaw's Victory Square on his first visit to Poland. Christ cannot be removed from the history of any nation, and only in Him can all nations and the whole of humanity "cross the threshold of hope."
+
+I recommend reading the full passage in the book, which is a source of great hope for anyone who feels that evil has the upper hand.

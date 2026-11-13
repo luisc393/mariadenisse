@@ -1,0 +1,21 @@
+---
+title: "Every Herod's Hour Comes"
+---
+
+In Venezuela it is a typical Christmas custom to find Nativity scenes in many places around the city (churches, shopping malls, barracks, hospitals, homes and so on). In some of them we see Herod's castle, to remind us of that poor king who went down in history as the murderer of the innocents.
+
+In that castle, which looks so luxurious next to the stable of Bethlehem (where the one true King of kings was born: Jesus Christ), lived a man who believed himself all-powerful, unequaled, incomparable... to whom everyone had to pay honor and whose orders everyone had to carry out immediately, even if they were pure madness. But Herod was a human being like any other (he needed to sleep, eat and go to the bathroom; he also got sick, grew old and died). The only difference was that he held in his hands great power to do a great deal of good.
+
+Sadly, Herod did not use his power to do good but to do evil. His pride blinded him so badly (and his collaborators too) that he committed one of the greatest crimes: killing innocent human beings. The cause of the massacre: Pride. Pride that could not bear that the only king in this world is God. Pride that could not bear to bow its head before the God who became man and came to this earth as a child to save us from our sins.
+
+Today, December 28, we remember the day of the massacre of the innocents. The day when the inconsolable weeping of Rachel (and of many other mothers) was heard, because a "raving madman" ordered all children under two to be killed in order to eliminate the Messiah, the King of kings, of whom the prophecies spoke. And his servants did not stop him; they followed his orders like sheep (much like the little sheep in the Nativity scene). And all out of a craving for power, out of the whim of a man who did not want his throne taken away.
+
+Herod, how badly you did! How badly you look before humanity! Not only did you stop being first, but, like everyone, your hour came and you had to face, face to face, the man you could not kill, who changed the history of the world and who, for ever and ever, will be first above all things, because he is God himself: Jesus Christ.
+
+What did you say to Jesus Christ, Herod, on the day you sat before him to give an account of your life on this earth? What did you answer when he asked why you had used the power given to you from on high to do evil and not good? What good did so much wickedness, envy, pride, hatred and craving for power do you, Herod? And where are you now? I would like to give you a good interview, to see whether your answers might make the many Herods of this world react and learn something from you. Because I suppose you learned your lesson, didn't you? Or do you still think you are a Superman who can do whatever you please, with whomever you please, however you please? Did you see how everything in this life comes to an end? Because everyone's hour comes, sooner or later, but it comes.
+
+I hope that remembering this day will make so many Herods reflect (including, sadly, the mothers and doctors who kill an innocent being in the mother's womb; the people who think they are gods or goddesses and live off immorality and scandal in the media to enjoy fleeting fame, no matter the harm they may do to children and young people; and many others whose compass in life is not God but money and earthly pleasures), all those who go around believing they are above God and his laws, who think they are untouchable, that they will not grow old, that they will never fall ill, that they will never die...
+
+How many Herods are there today who need to recognize that they are not the king of kings? Because the only King of kings is God, before whom we must know how to bow our heads and, above all, whom we must know how to respect. But Christ is also a king who waits for us with open arms, so that we may recognize the evil we have done and ask his forgiveness, and begin a new life, clean... good, before our turn comes to stand before him.
+
+Because, as the title of this article says, every Herod's hour comes! And a New Year is an excellent moment to correct the mistakes we may have made and to strive for integrity every day of this hard year, 2012, which expects the best from each one of us. Happy New Year to all!

@@ -6,8 +6,6 @@ libro: false
 # origen: Drive 1SR59UUAp5khi78TBUoV2gjcxfegodPvA
 ---
 
-MARÍA DENISSE FANIANOS DE CAPRILES EL UNIVERSAL
-
 "Nos han quitado tanto, que acabaron quitándonos el miedo". Eso se podía leer en una de las pancartas que usaron nuestros jóvenes, en una de las tantas manifestaciones que se han venido realizando en estos días en nuestra amada Venezuela.
 
 Yo nunca pensé vivir lo que estoy viviendo en estos momentos. Cuando era estudiante de periodismo quería ser reportera de guerra, y nunca le he tenido miedo a la muerte. Hoy quisiera cambiarme por mis hijos y no sufrir la angustia que me puedan matar a alguno de ellos en las calles. Pero eso no se puede, lo que estamos viviendo es casi como lo que uno ha visto en películas, cosas que uno nunca imaginó vivir.

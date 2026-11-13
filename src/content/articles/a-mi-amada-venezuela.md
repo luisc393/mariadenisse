@@ -1,0 +1,15 @@
+---
+title: "To My Beloved Venezuela"
+---
+
+Writing about the love I have for you will be difficult, because I will never find the right words to describe this passion that boils in my heart every time I hear your name, every time I see your flag... This passion that keeps me full of hope and grows every time I see so many Venezuelans (here or abroad) who also love you madly and who are capable of anything so that you can become a better country.
+
+I can't even tell you how I feel when someone speaks ill of you or of any of my Venezuelan brothers and sisters. I get furious! And you have no idea how much I laugh when someone comes to try to take away my hope with their horror stories. Because, whatever happens, they will never be able to take my hope away! How can anyone take away the hope of someone who sees thousands of young people in your streets, your schools, your squares and your universities, fighting to get ahead and trying to give the best of themselves to their country?
+
+I don't care that, because of this crazy love I always shout from the rooftops, some people call me mad, a dreamer, naive... Some have even told me I suffer from Stockholm syndrome, and others have sent me to a psychiatrist. And I don't care! What I have understood perfectly is that to love you have to suffer. And I have suffered so much for you, like many others, seeing and living through so much hatred, so many separations, so much pain, so much violence, so much uncertainty... that this suffering has swollen my heart with a love so passionate that when I am away from your land for a few days I can't wait to come back. It's like a crazy love!
+
+It seems unbelievable that I cannot spend a day or a night without thinking about what your destiny will be. Without thinking about what more I can do to see you better. Because your destiny is inseparably bound to mine and to that of my loved ones. It is as if we were joined by an umbilical cord that, if I cut it, would stop me from being nourished by your wonders, your beaches, your mountains, your plains, your passions, your memories, your scents, your flavors, your People!... I would stop breathing that inexplicable air that I can only breathe here.
+
+What has happened to you, my dear Venezuela, that you have become the love of my life, the subject of my life every day of my existence? I want you to know that every time I stand before your majestic Ávila I sigh like a woman madly in love and shout to you that I Love You! And that I will not stop Praying and Fighting, not for a second, so that soon, very soon, we can live in a country where Justice and Peace reign for all.
+
+Because I was born in your bosom and here I stay, whatever happens. Because I know I owe you too much and that you expect a great deal from each of your children. So you know you can count on me for anything! I am sure that soon, "before the cock crows," we will begin to write new chapters in your turbulent history, which has made us grow, mature and, above all, Love so much.

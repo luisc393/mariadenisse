@@ -1,0 +1,21 @@
+---
+title: "The Doctor of Death"
+---
+
+On May 14, the abortionist doctor Kermit Gosnell was sentenced to life in prison for the murder of three babies born alive. A former employee of this "doctor," Stephen Massof, testified in court in early April that he saw around 100 babies born alive who were then "snipped" in the back of the neck with scissors by clinic workers to make sure they died.
+
+In a report prepared in January 2011, the district attorney found that the Pennsylvania Department of Health had contact with Gosnell's clinic in 1979, the year it approved it. After that, the department did not inspect the site again until 1989, when it found "numerous violations." Two more inspections, in 1992 and 1993, found further violations, but no corrections were made. "With the change of administration from Governor Casey to Governor Ridge," the report noted, "officials concluded that inspections would be 'putting a barrier up to women' seeking abortions. Better to leave clinics to do as they pleased, even though, as Gosnell proved, that meant both women and babies would pay."
+
+For pro-life groups, which every day have become a real "headache" for the big business of abortion, Gosnell's name became a rallying cry. They did a titanic job of denouncing the case and raising awareness on social media, which helped draw the attention of the press. The work of pro-life organizations, which are more numerous every day and are found all over the world, is proving very effective: millions of women who were thinking of having an abortion have not done so, something these mothers are later infinitely grateful for.
+
+Last week pro-life organizations were celebrating because Pope Francis, at the audience in Saint Peter's Square, said emphatically that life must be defended from the moment of conception. That same day the Pope went to take part in the March for Life that some pro-life groups were holding in Rome, and on Twitter he wrote: "It is God who gives life. Let us respect and love human life, especially vulnerable life in a mother's womb."
+
+A quotation from Pope Francis has become a motto for many of these organizations. He urged people to defend the unborn from abortion "even if they persecute you, slander you, set traps for you, take you to court or kill you. There must not be a single child who does not have the right to be born. There must not be a single child who does not have the right to be well fed, who does not have the right to go to school."
+
+In June the Pope will play a central role in the annual celebration of the Gospel of Life at the Vatican. A few years ago Benedict XVI began this annual celebration, in which a papal Mass is offered for pro-life leaders. On Sunday, June 16, the Pope will celebrate a Mass for Life in Saint Peter's Square. So now pro-life leaders, with a leader as media-savvy as Pope Francis, have great hope of putting an end to abortion in the world.
+
+And I will close by saying that, in the face of horrors like the case of Dr. Gosnell, wonderful things have happened, such as the conversion of Abby Johnson, who was the director of an abortion clinic run by the abortion organization Planned Parenthood. In her book Unplanned (Ignatius Press, 2011, USA), she exposes this organization's abortion priorities and the semantic manipulation it uses. Her former employers took her to court to try to silence her. However, not only did she win the case, but it drew media attention, and all they managed to do was give her a platform to tell her story.
+
+Today Abby Johnson is part of the Coalition for Life, the pro-life organization that works on the other side of the fence of the very clinic she ran, trying to offer women who go there alternatives to abortion. In a recent letter she wrote in reply to some people who were calling for the death penalty for Dr. Gosnell, she said that she eagerly awaits the day when she can call Kermit Gosnell a former, repentant abortionist.
+
+There are many cases like Abby Johnson's in the pro-life cause. They are the good things that emerge from so much evil. That is why good will always triumph over evil, and with the dedication of these pro-life leaders and the unconditional support of Pope Francis, perhaps before long we will put an end to the terrible crime of abortion throughout the world.

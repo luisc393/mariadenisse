@@ -1,0 +1,23 @@
+---
+title: "Forgive the Corrupt?"
+---
+
+Last week I was deeply struck by the words Pope Francis spoke in another homily at the Casa Santa Marta. We Christians know that God is infinitely merciful, but the Holy Father, speaking once again about the corrupt, pointed out that Jesus Christ does not speak of forgiveness when a corrupt person causes scandal and leads a double life: when he steals with one hand and gives money to the Church with the other. He said that whoever does not repent and "pretends to be a Christian" does great harm to the Church.
+
+The Pope reminded us that we must all recognize ourselves as "sinners," but must guard against becoming "corrupt." And he stressed that whoever is a benefactor of the Church but steals from the State is "unjust" and leads a "double life."
+
+He explained that Jesus never tires of forgiving and advises us to do the same; when he tells us to forgive seven times a day, he is painting a portrait of himself. But in this Gospel passage, the Pope noted, Jesus also says "Woe to those who cause scandal," and he speaks not of sin but of scandal, which is something else, adding that it would be better for such a person to have a millstone hung around his neck and be thrown into the sea than to cause one of these little ones to stumble.
+
+And the Pope's hard words continued. What is the difference between sinning and causing scandal? Whoever sins and repents asks forgiveness, feels weak, feels himself a child of God, humbles himself and asks Jesus for salvation. But the one who causes scandal does not repent: he goes on sinning while pretending to be a Christian. That double life, he said, does great harm. "But I'm a benefactor of the Church! I put my hand in my pocket and give alms to the Church." Yet with the other hand he steals, from the State, from the poor. He is unjust. That is the double life, and, as Jesus says (not the Pope, he stressed), such a person deserves to have a millstone hung around his neck and be thrown into the sea. Here there is no talk of forgiveness.
+
+Good heavens! When I read these words I shuddered, and I thought that God has truly blessed us, at a time when values are so lacking, with a Pope who could not speak more clearly. He knows that the problem of such brazen corruption worldwide is so serious that he cannot stay silent on the subject and must speak clearly, very clearly, without mincing words!
+
+The Pope went on: the problem is that such a person deceives, and where there is deceit the Spirit of God is not present. That is the difference between a sinner and a corrupt person. Whoever leads a double life is corrupt. It is different with someone who sins and would like not to sin, but is weak and goes to the Lord and asks forgiveness: the Lord loves that person very much, accompanies him, is with him.
+
+As the Pope continued in his homily, we must all recognize that we are sinners, yes, all of us. But not corrupt. The corrupt person is fixed in a state of self-sufficiency and does not know what humility is. To such people Jesus spoke of "whitewashed tombs," beautiful on the outside but full of dead bones and rot inside. A Christian who boasts of being a Christian but does not live a Christian life is one of these corrupt people, and how much harm, the Pope lamented, such corrupt Christians leading a double life do to the Church, because they live not in the spirit of the Gospel but in the spirit of worldliness.
+
+He also recalled Saint Paul's words in the Letter to the Romans, "Do not be conformed to this world," noting that the original is even stronger: do not enter into the schemes and parameters of this world, the worldliness that leads to a double life.
+
+And he concluded that the life of the corrupt is a varnished rottenness, and that Jesus did not call such people "sinners" but "hypocrites." By contrast, how beautiful is the other side: if someone sins against you seven times and seven times comes back saying "I repent, I am a sinner," you must forgive him. That is what the Lord does with sinners: he never tires of forgiving, on the sole condition that we do not want to lead a double life and come to him repentant: "Forgive me, Lord, I am a sinner!" The Pope asked for the grace of the Holy Spirit, who flees from all deceit, and the grace to recognize ourselves as sinners: "Sinners, yes. Corrupt, no."
+
+Let us pray hard for so many corrupt people, especially those who call themselves Christians, that they may repent from the heart, ask forgiveness, stop causing scandal, give back everything they stole and make amends for the great harm they have done. So that they may receive the merciful forgiveness of Jesus and of so many people who have suffered because of their insatiable greed.

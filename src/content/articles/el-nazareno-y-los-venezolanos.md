@@ -1,0 +1,23 @@
+---
+title: "The Nazarene and the Venezuelans"
+---
+
+Lent begins this March. "Remember that you are dust, and to dust you shall return": that is the phrase marked on our foreheads with the cross of ashes every Ash Wednesday. A hard, strong phrase that shakes us up, that strikes us in the soul and the heart, because we know with absolute certainty that all of us, from the humblest to the most powerful, will end up as dust. It seems hard to believe, but that is the only sure thing we have in life: death.
+
+For those of us who are Christians, thanks be to God and to the Virgin, the subject of death is not so hard, because we were taught from childhood that True Life begins after death, and that what matters is that we fight hard here on earth to win Heaven and to make sure we don't end up in Hell. But it is one thing to say it, just like that, and another to be able to live it and make it our own (to have it "click," as they say).
+
+A wonderful time to reflect on this Number One subject of Life and Death is Lent, and I think it is fabulous that this year the Archdiocese of Caracas has decided to take the venerated image of the Nazarene of San Pablo on a journey through different parts of Caracas. (To read about this Lenten Project 2011, you can read the Lenten Proclamation on the website www.arquidiocesisdecaracas.com.)
+
+Now you may ask me: and what does the title of this article have to do with what I have said so far?
+
+Quite simply, that this Lent is a wonderful opportunity for each of us Venezuelan Catholics to come closer to the Nazarene; and that when we stand before that perfect wooden carving, we may look closely, with the eyes of the soul, at each of the features of pain of our Lord Jesus Christ, who tells us, carrying his cross: "To save you, I had to suffer this torment." Yes: "To save me," not the world or the other sinners, but me, who am his child, and who have also sinned.
+
+When we see the symbols of the passion and death of our Lord Jesus Christ that the Nazarene presents to us, may we be able to say to him: Lord, here I am to help you carry the Cross, by carrying mine and helping others day by day, without complaining! Lord, I too want to drink the cup you drank and learn to live for others! Lord, may I carry my crown of thorns each day, which is nothing compared to the one you wore, with joy and hope! Lord, may the whip with which you were so vilely scourged teach me how to offer my pains and setbacks each day for the forgiveness of sinners and for Peace in my beloved homeland! Lord, may I keep those three nails that were so savagely driven into you on the cross in my mind and in my heart every time I am tempted to offend you! My God, may the lance that pierced your side teach me that the most horrible things in the world are violence and hatred, and may its image help me become an unwavering defender of life, of peace and of harmony among all my Venezuelan brothers and sisters! And may that hyssop on which they gave you vinegar teach me that I came to this earth to serve and not to be served, just as You taught us!
+
+These are just some of the questions we can ask ourselves before the Nazarene so as to examine ourselves better this Lent and then make a wonderful Confession. That way, on Easter Day we will be prepared and ready in case we are called early for the final journey (remember that living in Venezuela you never know when you will go, because of crime, you know).
+
+But it doesn't end there. That is where it only begins, because, as the Lenten Proclamation of the Archdiocese of Caracas says: "We are called to be missionary disciples of Jesus, to communicate his life to our people. Being his disciples means following him, living in communion with him, imitating his example, bearing witness with a Christian life, and proclaiming his message with courage. The personal response to this call of Jesus Christ and his Church is decisive for improving family life and growing in social harmony. To practicing Catholics we say: join the Continental Evangelizing Mission! God gives all of us the opportunity to take part in proclaiming our faith, which is a treasure we must share with others. The risen Jesus sends us: 'Go and make disciples of all nations' (Mt 28:19-20)."
+
+I hope that God, through this image of the Nazarene, will say many things to our hearts this Lent that stir us, that make us "click," and that move us quickly to follow the call of our Lord Jesus Christ to be his missionary disciples. Because He needs each one of us to carry out his plan of salvation. Let us not let him down. Let us behave as the exemplary children of God that we Venezuelans are!
+
+"There is nothing better in the world than being in the grace of God." Saint Josemaría
