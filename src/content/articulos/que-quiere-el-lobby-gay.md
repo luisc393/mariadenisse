@@ -1,0 +1,23 @@
+---
+title: "¿Qué quiere el lobby gay?"
+date: 2016-06-04
+fechaAproximada: true
+libro: false
+# origen: Drive 1QV03JauIz6dvtiawVwuK6l3OCmn2f37B
+---
+
+La semana pasada se introdujo en la Asamblea Nacional un proyecto de ley para que las uniones homosexuales se legalicen como matrimonio. Horas más tarde vi cómo en el twitter y en el Facebook los principales líderes del lobby gay en Venezuela se atacaban uno al otro porque cada uno decía ser el protagonista de ese “logro” y porque uno había conseguido más firmas o más espacios en medios que el otro, etc. Esos “líderes” dicen además que Venezuela está en la prehistoria porque no se permiten leyes como las del aborto (donde matas a tu propio hijo), leyes que permiten el cambio de sexo de los menores de edad sin permiso de sus padres, leyes que permiten la adopción por parte de parejas homosexuales, etc.
+
+Ya el Papa Francisco nos había advertido sobre los lobbies. El dijo que: “Cuando uno se encuentra con una persona homosexual, debe distinguir entre el hecho de ser gay del hecho de hacer lobby, porque ningún lobby es bueno. Si una persona es gay y busca al Señor y tiene buena voluntad, ¿quién soy yo para juzgarlo? El catecismo de la Iglesia católica lo explica muy bien. Dice que no se deben marginar a estas personas por eso. Hay que integrarlas en la sociedad. El problema no es tener esta tendencia. Debemos ser hermanos. El problema es hacer un lobby”.
+
+La semana pasada la ONU le dijo a la iglesia católica, aprovechando los casos de pederastia que todos repudiamos y condenamos, que cambiara su doctrina sobre el aborto y las uniones homosexuales. El Arzobispo Silvano Tomasi, Observador Permanente de la Santa Sede en las Naciones Unidas, respondió a ese informe diciendo que el Vaticano ha demostrado en estos últimos años que mantiene tolerancia cero en estos casos de abusos y que ese informe pareciera haber estado redactado ya incluso antes de las conversaciones con los representantes del Vaticano porque no contempla en modo alguno el informe que se entregó sobre las numerosas acciones emprendidas por la Iglesia para enfrentar este tipo de abusos. Expertos vaticanos señalan que dicho escrito se hizo bajo presiones de los lobbies gays y pro aborto que están en la ONU.
+
+Sabemos que no es nada fácil enfrentar esos lobbies, sobre todo porque manejan grandes intereses económicos, mediáticos y de poder por detrás, pero debemos entender la importancia de ser valientes a la hora de defender la dignidad de la persona humana, la dignidad del matrimonio y de la familia, y la vida del no nacido, porque como dijo el Papa Francisco el viernes pasado: “… Hay un cierto declive en varios aspectos de la vida cristiana que requieren un discernimiento, una búsqueda de motivos y formas de afrontar nuevos retos, como -por ejemplo- la idea de la libertad sin límites, la tolerancia hostil o desconfiada de la Verdad, o el malhumor por la justa oposición de la Iglesia al relativismo imperante”.
+
+Eso del malhumor supongo que tendrá que ver con la irritación que se provoca en algunos lobbies que quieren defender el homicidio de un inocente o la legalización de algo que va en contra de la naturaleza. Ellos se pueden molestar porque encuentran en los cristianos un gran obstáculo para sus intenciones. También ese malhumor puede tener que ver con que hace meses una campaña orquestada por el lobby del aborto pretendió que se le retirara su status de observador permanente en la ONU al Vaticano “por representar a un país con muy poca población”, y ante miles de firmas de católicos en el mundo entero repudiando esa actitud tuvieron que reconsiderar su posición.
+
+En cuanto al matrimonio el Papa Francisco dijo hace días que: “… hoy el matrimonio se considera a menudo una forma de gratificación emocional que se puede constituir de cualquier forma y modificar de acuerdo a la sensibilidad de cada uno. Por desgracia, esta visión también afecta a la mentalidad de los cristianos…”.
+
+Ilustra mucho a esa afirmación del Papa la contundente, clara y magistral “Nota doctrinal pastoral” que escribió la Conferencia Episcopal Venezolana la semana pasada sobre lo que significa el matrimonio. Ojalá puedan leerla completa y difundirla <http://www.cev.org.ve/index.php/noticias-3/54-conferencia-episcopal-venezolana-nota-doctrinal-pastoral-sobre-el-matrimonio>
+
+Recordemos aquella frase que aprendimos en el colegio desde chiquitos: “La familia es la base de la sociedad”. Defendamos a nuestras familias, a la vida del no nacido, al verdadero matrimonio que es entre un hombre y una mujer, y que debe vivir día a día para educar y transmitir valores (y no antivalores) a sus hijos.

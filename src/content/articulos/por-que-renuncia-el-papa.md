@@ -1,0 +1,23 @@
+---
+title: "¿Por qué renuncia el papa?"
+date: 2013-02-11
+fechaAproximada: true
+libro: false
+# origen: Drive 1dDWj9-jYEjxGmeM163Bt1NsF4yZafOF7
+---
+
+Nadie se esperaba la renuncia del Santo Padre Benedicto XVI. Al enterarme, sentí que mi corazón se encogía de dolor y mis lágrimas no se hicieron esperar. Es que Benedicto XVI ha significado mucho para nuestra Santa Iglesia Católica, sobre todo en estos años de tantos problemas.
+
+Como le escribí al Santo Padre en junio pasado, en este mismo diario, en una Carta Abierta a Benedicto XVI (<http://www.eluniversal.com/opinion/120613/carta-abierta-a-benedicto-xvi>): “Vemos claramente cómo el Espíritu Santo lo está guiando cuando, con su incomparable inteligencia, da muestras de impresionante humildad, paciencia, sabiduría y paz. Cada mensaje que transmite es como un oasis de teología espiritual que nos enseña clarito el camino a seguir para enamorarnos de Dios; porque usted, más que nadie, sabe muy bien que mientras más almas estén encendidas en el amor a Dios se irradiará una inmensa llama que quemará de Amor, Justicia y Paz todos los rincones de la Tierra”. Ese gran Amor de Dios que ha llenado el corazón de muchos católicos en el mundo entero, es el que hace hoy decir, con gran felicidad, que nuestra Iglesia está más Viva y más Joven que nunca.
+
+Luego del primer shock que me trajo el ver la noticia de la renuncia del Papa, rápidamente busqué las palabras que había pronunciado momentos antes en la Basílica de San Pedro. Fue ahí cuando entendí perfectamente el por qué de su decisión. Benedicto XVI nos demostró, una vez más, que es un hombre sabio, y que está allí en ese puesto, no por ansias de poder ni por ninguna razón humana, sino porque así se lo pidió Dios hace siete años cuando apenas le faltaban dos años para cumplir los ochenta años.
+
+El Papa dijo, a los cardenales que estaban presentes en San Pedro (entre los cuales estaba nuestro Cardenal Jorge Urosa Savino), que: "después de haber examinado ante Dios reiteradamente mi conciencia, he llegado a la certeza que, por la edad avanzada, ya no tengo fuerzas para ejercer adecuadamente el ministerio petrino". Luego añadió que: "para gobernar la barca de San Pedro y anunciar el Evangelio, es necesario el vigor tanto del cuerpo como del espíritu, vigor que, en los últimos meses, ha disminuido en mí de tal forma que he de reconocer mi incapacidad para ejercer bien el ministerio que me fue encomendado". "Siendo muy consciente de la seriedad de este acto, con plena libertad, declaro que renuncio al ministerio de Obispo de Roma, Sucesor de San Pedro, que me fue confiado por medio de los Cardenales el 19 de abril de 2005".
+
+Sólo podemos decir que este ejemplo de humildad que Benedicto XVI ha dado al mundo, en este Año de la Fe, es realmente admirable. Y entendemos perfectamente que se requiere una fortaleza y salud “de hierro” para poder ir al ritmo de una iglesia y de un mundo que corre a velocidades agigantadas. Porque nuestra Iglesia, ¡y lo digo con mucha felicidad! está llena de jóvenes; y para correr a su lado, acompañándolos y enseñándolos, hay que estar en buenas condiciones.
+
+Monseñor Diego Padrón, presidente de la Conferencia Episcopal Venezolana, señaló inmediatamente a la noticia que el Papa Benedicto XVI da "un buen ejemplo" con su renuncia, pues está demostrando que "no es el poder por el poder y agregó que hoy es "un día de luminosidad" para la Iglesia. Y es que para nosotros los cristianos una noticia tan sorpresiva, que en un primer momento nos remueve, se convierte en una maravillosa noticia llena de esperanza y de luz, porque sabemos que Cristo es quien maneja la barca de la Iglesia y que todo lo que pase será para el bien de ésta. Tenemos plena confianza que el próximo Papa será también muy ejemplar y muy querido por todos sus hijos del mundo entero.
+
+Ahora lo que nos queda, a nosotros los católicos, es rezar mucho por nuestro querido Benedicto XVI y por todos nuestros Cardenales, quienes estarán presentes en el próximo Cónclave que se realizará, más o menos, a mediados del mes de Marzo. Tendremos allí como “papables” a nuestro querido Cardenal Jorge Urosa Savino, y a muchos cardenales latinoamericanos que han dado un gran ejemplo de excelentes pastores en situaciones nada fáciles para sus países de origen.
+
+Hoy, Miércoles de Ceniza, es un buen momento para intensificar nuestras oraciones por nuestra Santa Iglesia Católica y por nuestro futuro Papa. Allí estaré presente, Dios mediante, para esperar el “Habemus Papa” que tanta emoción despierta en los corazones de todos quienes amamos a nuestra Santa Iglesia Católica, Apostólica y Romana. ¡Viva nuestra Santa Iglesia! ¡Y gracias, mil gracias a Benedicto XVI!

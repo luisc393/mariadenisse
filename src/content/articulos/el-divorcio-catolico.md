@@ -1,0 +1,25 @@
+---
+title: "El divorcio católico"
+date: 2015-09-29
+fechaAproximada: true
+libro: false
+# origen: Drive 1C_VJ98HmMw0tn5Eid1OxoCLSSy03DFGs
+---
+
+A continuación copio en mi columna de hoy la pregunta que le hicieron los periodistas al Papa Francisco en el vuelo de regreso de Estados Unidos a Roma sobre el “divorcio católico”, sin duda un tema que interesa a muchas personas.
+
+“Santo Padre, usted no puede obviamente anticipar el debate de los padres sinodales, lo sabemos perfectamente, pero queríamos saber si antes del Sínodo en su corazón de pastor quiere realmente una solución para los divorciados vueltos a casar. Queremos también saber si su Motu Proprio sobre la regulación de la nulidad, ha cerrado para Ud. este debate. Y para terminar, Qué responde a aquellos que temen que con esta reforma la creación de facto del llamado divorcio católico. Gracias
+
+Papa Francisco: Empiezo por la última. En la reforma de los procesos, del modo, he cerrado la puerta a la vía administrativa, que era la vía por la cual podía entrar el divorcio. Y se puede decir que aquellos que piensan en el divorcio católico, se equivocan, porque este último documento ha cerrado la puerta al divorcio que podía entrar, y era más fácil, por la vía administrativa, siempre estará la vía judicial.
+
+Luego, continuando con la tercera, el documento: éste ha estado pedido por la mayoría de los padres sinodales en el Sínodo del año pasado, acelerar los procesos, porque hay procesos que duraban diez, quince años, en una sentencia, y luego otra sentencia, y una apelación y otra apelación y no se terminaba nunca.
+
+La doble sentencia, cuando era válida y que no había apelo fue introducida por el Papa Lambertini, Benedicto XIV, porque en Centroeuropa, no digo el país, había algunos abusos, y para pararlos él introdujo esto (la doble sentencia), pero no es una cosa esencial al proceso. Los procesos cambian y la jurisprudencia cambia y se mejora siempre, en ese momento era urgente hacerlo. Luego Pio X ha querido acelerar y ha hecho alguna cosa pero no tuvo el tiempo o la posibilidad de hacerlo. Los padres sinodales han pedido esto en el aceleramiento del proceso de nulidad matrimonial y termino en eso, este documento, este Motu Proprio, facilita los procesos en el tiempo, pero no es un divorcio, porque el matrimonio es indisoluble cuando es sacramento, y esto la Iglesia no lo puede cambiar, es doctrina, es un sacramento indisoluble.
+
+El procedimiento legal es para probar que eso que parecía un sacramento no era sacramento por falta de libertad, por ejemplo, o por falta de madurez, o por enfermedad mental, pero tantos son los motivos que llevan luego de un estudio, una investigación a decir 'no, ahí no hubo un sacramento', por ejemplo, porque esa persona no era libre, un ejemplo ahora no es común pero en algunos sectores en la sociedad es común, al menos en Buenos Aires era, el matrimonio cuando la novia estaba embarazada, deben casarse, yo en Buenos Aires al sacerdote les aconsejaba con fuerza casi prohibía hacer el matrimonio en esta condición, nosotros lo llamamos matrimonio en apuro, para cubrir todas las apariencias, y el niño nace, algunos van bien pero no hay la libertad y luego va mal se separan y si 'yo he estado forzado a hacer el matrimonio porque debía cubrir esta situación', y esta es una causa de nulidad, tantas, la causa de nulidad, ustedes pueden buscarlo en el internet, están todas ahí, son tantas.
+
+Luego el problema de los divorciados que están en una segunda unión, ustedes lean, lo tiene, el Instrumentum Laboris, aquello que se discute, a mí me parece un poco simplista decir que el Sínodo, que la solución para estar personas es que puedan comulgar, esa no es la solución, la única, aquello que el Instrumentum Laboris propone es tanto y también el problema de la nueva unión, de los divorciados, no es el único problema, en el Instrumentum Laboris hay tantos, por ejemplo los jóvenes no se casan, no quieren casarse, es un problema pastoral para la Iglesia, otro problema la madurez afectiva para el matrimonio, otro problema la fe, “yo creo, que esto es por siempre, si, si, si creo”, pero ¿creo? la preparación para el matrimonio, yo pienso tantas veces que para ser sacerdote hay una preparación de ocho años, y luego como no es definitivo la Iglesia puede quitarte el estado clerical, para casarse para toda la vida se hacen cuatro cursos cuatro veces, hay algo que no va, el Sínodo debe pensar bien cómo hacer la preparación al matrimonio, es una de las cosas difíciles, pero todo está listado en el Instrumentis Laboris, pero me gusta que me haga esta pregunta sobre el divorcio católico, eso no existe, o no hubo matrimonio, esto es nulidad, no ha existido, y si ha existido es indisoluble, esto es claro.”
+
+Gracias Santo Padre por su aclaratoria.
+
+Recemos ahora por el Sínodo de la Familia, que comienza este próximo 4 de octubre, para que el Espíritu Santo ilumine a los padres sinodales y las conclusiones que de allí salgan ayuden a las familias católicas del mundo entero a vivir felices bajo el camino que nos enseñó nuestro Señor Jesucristo.

@@ -1,0 +1,23 @@
+---
+title: "El Papa Francisco y Venezuela"
+date: 2013-05-22
+fechaAproximada: true
+libro: false
+# origen: Drive 1EPnBdpx5QP6mSjxwawt29OfBX540RCFq
+---
+
+Para todos los católicos venezolanos ha sido muy importante que el Papa Francisco se dirigiera al pueblo venezolano el pasado domingo, día del Buen Pastor, al culminar el rezo del Regina Coeli.
+
+Como Buen Pastor, que está pendiente de sus ovejas, el Papa expresó su preocupación por el país y señaló que estaba en intensa oración por “los acontecimientos que se están sucediendo en Venezuela”. Textualmente dijo: “los acompaño con viva preocupación, con intensa oración y con la esperanza que se busquen y se encuentren caminos justos y pacíficos para superar el momento de grave dificultad que el país está atravesando”. Seguidamente el Papa Francisco invitó “al querido pueblo venezolano, de forma particular a los responsables institucionales y políticos, a rechazar con firmeza todo tipo de violencia y a establecer un diálogo basado sobre la Verdad, en el mutuo reconocimiento, en la búsqueda del bien común y en el amor por la Nación”.
+
+Finalizó sus palabras de apoyo a Venezuela de la siguiente manera: “Pido a los creyentes orar y trabajar por la reconciliación y la paz” y pidió que nos unamos “en una oración llena de esperanza por Venezuela, poniéndola en las manos de Nuestra Señora de Coromoto”. Si desean ver y escuchar el mensaje completo del Papa Francisco a los venezolanos lo pueden buscar en este video a partir del minuto 16: http://www.youtube.com/watch?v=rJUxI75VZsU
+
+Los católicos venezolanos sentimos un gran agradecimiento ante estas palabras de apoyo y de llamado a la verdad, al diálogo y a la Paz. Estas palabras las pronunció el Papa justamente el domingo en que se celebra la fiesta del Buen Pastor. Para los venezolanos nuestros pastores han sido un apoyo muy importante en estos años de tantos problemas. Ellos, con sus oraciones, consejos y trabajo, nos han mostrado lo que significa ser un padre espiritual, pendientes de todos sus hijos, de todas sus ovejas.
+
+Nuestro Cardenal Jorge Urosa Savino, en declaraciones ofrecidas a Globovisión señaló que: “Me complace muchísimo que el Papa haya elevado esas oraciones por nuestro país a fin que todos hagamos el esfuerzo de salir de esta crisis política en la cual nos encontramos. El Papa ha subrayado la responsabilidad de todo el pueblo, pero sobre todo de los dirigentes políticos; para que en un mutuo reconocimiento y en la búsqueda de la verdad, y en un diálogo abierto, se puedan encontrar soluciones justas y pacíficas a la situación actual”
+
+El Cardenal Urosa señaló que: “En esa misma línea la Conferencia Episcopal Venezolana (CEV) publicó un comunicado el 17 de abril en el cual abogamos sobre esa solución pacífica. Es importante que haya un reconocimiento mutuo de las partes, que no haya enfrentamientos, especialmente entre el pueblo venezolano, y es importante que el asunto se resuelva en base a la Verdad y a la Justicia… En ese comunicado la CEV se ofrece como elemento de mediación para propiciar ese diálogo y va en esa línea de lo que ha sido siempre la conducta del Episcopado para buscar la paz del país y que todos los venezolanos nos entendamos, nos sintamos y vivamos como hermanos miembros de un solo pueblo… Hay que poner manos a la obra para el diálogo, dar los pasos para que ese diálogo se dé. Tiene que ser un diálogo abierto, sin presiones, con el reconocimiento mutuo de las partes. Es necesario que los líderes de esos dos grandes grupos polarizados que hay en el país se entiendan (sin dejar sus convicciones propias) para buscar la unión, el encuentro y una salida a situaciones que puedan derivar después en problemas más graves… La CEV a través del comunicado hizo un rechazo muy fuerte a la violencia que tenemos que descartarla, incluyendo las amenazas, porque no podemos vivir con esa violencia tan terrible dentro del corazón”.
+
+Es importante leer con detenimiento el “Comunicado por la Paz social y política del país” que emitió la CEV la semana pasada: <http://www.cev.org.ve/noticias\_det.php?id=3805>
+
+Para finalizar agradezco infinitamente a nuestro Papa Francisco por sus oraciones y por estar tan pendiente de todos sus hijos en el mundo entero. Y mil gracias a todos nuestros obispos y sacerdotes que han estado en todo momento apoyando con sus oraciones y aconsejando, como buenos pastores que son, a sus hijos espirituales venezolanos. Hoy más que nunca necesitamos sus oraciones y apoyo para que en todo momento reine la Paz en nuestra Patria. Nosotros seguiremos rezando intensamente por el Papa, por todos nuestros pastores; y para que la Verdad, la Justicia y la Paz reinen en nuestra amada Venezuela .

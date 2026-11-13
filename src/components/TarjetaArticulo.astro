@@ -1,6 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content';
-import { fechaLarga } from '../data/sitio';
+import { fechaArticulo } from '../data/sitio';
 
 interface Props { articulo: CollectionEntry<'articulos'>; mostrarTema?: boolean }
 const { articulo, mostrarTema = true } = Astro.props;
@@ -9,7 +9,7 @@ const texto = (articulo.body ?? '').replace(/\\([*_.#])/g, '$1').split(/\n\s*\n/
 const extracto = texto.length > 220 ? texto.slice(0, 220).replace(/\s+\S*$/, '') + '…' : texto;
 ---
 <li class="tarjeta" data-anio={d.date.getUTCFullYear()} data-tema={d.tema ?? ''}>
-  <p class="meta">{fechaLarga(d.date)} · {d.medio}{mostrarTema && d.tema ? ` · ${d.tema}` : ''}</p>
+  <p class="meta">{[fechaArticulo(d), d.medio].filter(Boolean).join(' · ')}{mostrarTema && d.tema ? ` · ${d.tema}` : ''}</p>
   <h3><a href={`/articulos/${articulo.id}`}>{d.title}</a></h3>
   <p>{extracto}</p>
 </li>

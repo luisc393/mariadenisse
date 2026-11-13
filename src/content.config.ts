@@ -8,11 +8,13 @@ const articulos = defineCollection({
   schema: z.object({
     title: z.string(),
     date: z.coerce.date(),
-    medio: z.string().default('El Universal'),
+    medio: z.string().optional(),
     tema: z.string().optional(),
     libro: z.boolean().default(false),
     enlaceOriginal: z.string().url().optional(),
     sinTitulo: z.boolean().default(false),
+    // true cuando solo conocemos el año aproximado (artículos sacados de la computadora sin fecha)
+    fechaAproximada: z.boolean().default(false),
   }),
 });
 

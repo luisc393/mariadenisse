@@ -93,5 +93,5 @@ h3 { font-size: 1.25rem; }
 .articulo p { margin: 0 0 1.1em; }
 .articulo ul { padding-left: 1.2em; }
 .articulo li { margin-bottom: .6em; }
-.cabeza-articulo { padding: 56px 0 8px; }
+.cabeza-articulo { padding-top: 56px; padding-bottom: 8px; }
 .cabeza-articulo .meta { font-size: .95rem; color: var(--gris); }

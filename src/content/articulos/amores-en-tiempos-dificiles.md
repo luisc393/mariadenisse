@@ -1,0 +1,27 @@
+---
+title: "Amores en tiempos difíciles"
+date: 2013-06-19
+medio: "El Universal"
+libro: false
+# origen: Drive 1sNUGk8FTf6uhxm9ENwGKEKI7xNsFBP3A
+---
+
+MARÍA DENISSE FANIANOS DE CAPRILES EL UNIVERSAL
+
+Si hay algo bueno que ha tenido esta crisis que hemos vivido durante estos últimos años en Venezuela, es que las dificultades han logrado que muchos matrimonios estén más unidos y enamorados que nunca. Algunos, como explicaré más adelante, están viviendo verdaderos amores "de película".
+
+Y es que está pasando algo muy sencillo en la gran mayoría de los hogares venezolanos. Cuando el esposo o la esposa ven llegar al otro cónyuge a la casa "doblado" del cansancio y de la presión por los miles y miles de problemas que está cargando encima, el otro cónyuge (por más doblado y tenso que se encuentre, porque a él o ella también le está tocando muy duro) lo menos que se le ocurre es ponerse a quejar de las contrariedades que ha pasado en el día. Al contrario, se recibe al otro con una gran sonrisa en la cara, y mucho más si éste viene con un paquete de papel toilette o de harina PAN. Quedaron atrás aquellos tiempos en que se regalaban unas rosas rojas, porque ahora el mejor regalo que se puede dar es un paquete de alguna provisión básica para la familia.
+
+A pesar del cansancio, de lo derrumbado que uno pueda sentirse, se inventa una broma para hacer reír al otro. ¿De dónde sacamos la broma? Normalmente aprovechamos la última noticia "loca" que acabamos de leer en las redes o ver en los medios, para crear un chiste que nos hace reír. Porque no hay nada más cierto que esa frase que dice: "reímos para no llorar". Y todo lo hacemos para alegrar a esa persona que comparte nuestra vida, nuestra lucha, nuestros sueños...
+
+Otra cosa muy buena en estos tiempos difíciles es que en la mayoría de los matrimonios desaparecen frases como "tengo ganas de...", "quiero que me regales...", "quiero que me compres...", "quiero viajar a...". Eso desaparece, primero porque sabemos que no hay con qué; o segundo porque si tuviéramos con qué sentimos que no son momentos de caprichos sino momentos de entregarse, de servir, de ayudar, de vivir... por una causa mayor: el futuro de nuestra nación. Los problemas externos que agobian al hogar y a nuestros hermanos venezolanos son tantos que uno se olvida de sí mismo para dar a los demás todo lo que se pueda dar.
+
+Estos amores en tiempos difíciles son un fenómeno que me han llamado mucho la atención, porque yo nunca pensé sentirlo en carne propia y también verlo en bastantes matrimonios que conozco. Hace días @bonysimonovis me comenzó a seguir en Twitter y yo me puse a ver sus fotos. Nunca había visto tanto amor en una mujer y en sus familiares más cercanos (empezando por su madre quien hace poco murió "exprimida" de tanto luchar por la libertad de su yerno), que están sufriendo una de las peores injusticias que se pueda vivir. Hay una foto de Bony con su esposo Iván en la cárcel que transmite un amor más apasionante que cualquier romance de película de Hollywood. Es realmente admirable el ejemplo que esta mujer ¡y toda su familia! están dando. Ella está convencida que más temprano que tarde logrará justicia para su esposo.
+
+Pareciera que estos amores "de película" en tiempos difíciles son normales. Hace poco vi una entrevista que le hicieron a la líder cubana Berta Soler y dos damas de blanco que la acompañaban, quienes hablaban maravillas de sus esposos (hombres que los habían conocido jovencitas), de lo unidas que estaban con ellos luego de más de 20 años de casadas. Los ojos les brillaban como el Sol cuando hablaban de ellos, y contaban cómo sus esposos se han convertido en su apoyo fundamental en el día a día y en la causa por la cual están luchando, ¡que están seguras van a ganar! Hablo de mujeres que han estado presas en varias ocasiones, que han recibido muchos golpes y que viven constantemente amenazadas, y uno las ve con ánimo y felices.
+
+El ver y sentir estos amores aprieta el corazón, y saca lo mejor que uno lleva dentro. Es aquí cuando uno entiende esa frase inentendible: "todo es para bien". Escuchar a Berta Soler, a Bony Simonovis y a muchísimas otras mujeres que están luchando por la libertad de sus seres amados y de su amada patria, pensando en un mejor futuro para sus hijos y para sus nietos, es un canto a la verdad, a la justicia, a la libertad... ¡Es un ejemplo inmenso a seguir por muchas mujeres que estamos viviendo tiempos difíciles!
+
+Escucharlas a ellas es como una grúa que nos levanta y nos mantiene erguidas para continuar caminando, para continuar luchando, aun cuando sentimos a veces que estamos a punto de desfallecer. No hay verdad más grande que esa que dice que uno se siente muy vivo mientras está luchando. ¡Que dejar de luchar es echarse a morir! Agradecemos infinitamente tantos testimonios de lucha incansable que estamos viendo en nuestra patria y en países hermanos, y que nos animan a seguir rezando como si todo dependiera de Dios y a seguir trabajando como si todo dependiera de nosotros.
+
+¡Más temprano que tarde la Verdad, la Justicia y la Paz triunfarán en nuestra amada Venezuela!

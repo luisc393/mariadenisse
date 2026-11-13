@@ -1,0 +1,23 @@
+---
+title: "Venezuela es otra"
+date: 2013-04-17
+medio: "El Universal"
+libro: false
+# origen: Drive 1FaDu_OBrZqBK3WkJESOEpTAOwwzw3Jl3
+---
+
+Los venezolanos acabamos de vivir uno de las experiencias más importantes en nuestra historia. El domingo pasado cientos de madres despedimos a nuestros hijos a las tres de la madrugada porque tenían que ir a trabajar a las mesas electorales. Miles de hijos despidieron a sus madres o a sus padres quienes también iban a cumplir esa gran responsabilidad nuevamente. Quienes nos despedimos de ellos lo hicimos como si no los fuéramos a volver a ver, sobre todo quienes tuvimos familiares en centros de barrios peligrosos.
+
+Nunca antes se vieron tantas personas movilizando gente, tanta gente cocinando para los centros. No es por nada pero este año podemos decir que todos los miembros de mesa, y todos quienes estaban allí (guardias nacionales, personal del CNE, etc.) fueron tratados a las mil maravillas por miles de voluntarios que se encargaron de mantenerlos bien alimentados e hidratados. Definitivamente los héroes del domingo fueron todos quienes trabajaron en las mesas. Desde jóvenes con 18 años recién cumplidos (luchando por un futuro mejor para su país) hasta gente mayor que estaban ahí luchando por sus nietos. En estas elecciones se vieron cosas ejemplares. Una señora de 104 años ejerció su derecho al voto. En un centro vimos a un hombre (recién operado) llegando en una ambulancia a votar.
+
+Esa noche éramos muchas las madres angustiadas. En mi caso, mis dos hijos mayores (uno de 20 y otro de 18 años) estaban en las mesas de un barrio peligroso de Caracas. Pero uno se tuvo que armar de valor y cuando ellos como a las nueve de la noche llamaron para preguntar qué hacían porque allá los ánimos estaban muy caldeados, yo les respondí con voz de madre angustiada: “De ahí no se mueven hasta que termine todo el proceso. Tienen que defender cada uno de los votos”. Y le entregué ese momento de espera al Señor. ¡Dios mío protégemelos! era lo único que podía decir. Ese centro donde ellos estuvieron, donde en todas las elecciones pasadas había ganado el gobierno, en esta oportunidad ganó la oposición. Gracias a Dios, a pesar que en las calles habían algunos grupos violentos, no pasó nada grave. Nuevamente la Virgen nos protegió con su manto y la Paz reinó en nuestra Patria, a pesar de algunos pocos hechos aislados. Y es que los venezolanos somos personas de Paz, hemos trabajado por la Paz sin descanso y siempre clamaremos y lucharemos para que la Paz reine en todos los rincones del país.
+
+Todos quienes vivimos este proceso quedamos ¡agotados! Han sido demasiados meses en tensión, han sido demasiadas cosas fuertes que hemos tenido que vivir aunadas a los problemas del día a día, que son muchos y a veces graves. Pero el lunes madrugamos igual que siempre, a tomarnos nuestra JARRA de café, unas pastillas para el dolor de cabeza, y a seguir adelante porque ¡Nada ni Nadie nos quitará la esperanza ni nos podrá detener!
+
+Eso si les digo, lo último que yo pensé antes de acostarme el domingo en la madrugada fue: ¿Dónde están las 4 millones de personas que no votaron en estas elecciones tan trascendentales para nuestro país? ¿Qué estarán pensando ellos en estos momentos? ¿Será que a estas alturas de nuestra historia todavía puede existir algún venezolano que viva ajeno a la realidad de su país? ¿O que no le importe? ¿Será que esa gente no tiene padres, hermanos, amigos, hijos, etc.? De verdad eso yo no lo puedo entender.
+
+Pero así como sabemos que esto está difícil (yo sinceramente pienso que cada vez menos) somos muchos, ¡muchísimos! quienes hemos aprendido que el futuro de Venezuela está en las manos de cada uno de nosotros. Y el ejemplo que están dando los jóvenes (y muchos otros no tan jóvenes) ha sido y será fundamental. Así que Mil gracias a todos quienes han luchado y seguirán luchando, sin perder el ánimo, sin perder la esperanza por un futuro mejor.
+
+A la Verdad y a la Paz nada la detiene. En Venezuela somos muchos los que estamos dejando el pellejo para que TODOS y cada uno de los venezolanos pueda vivir en un país con Justicia y Paz para todos. Por eso la lucha continuará siempre, apoyados en Dios y la Santísima Virgen, quienes están viendo todo desde el cielo y saben que sus hijos venezolanos no los van a defraudar.
+
+Aprovecho de darle un millón de gracias a todos los tuiteros que el domingo, desde todas partes del mundo y rincones del país, nos acompañaron por la red dándonos ánimo, apoyo y sobre todo rezando por Venezuela. Les pido, con todo mi corazón, que nunca dejen de rezar por nosotros, porque la lucha continúa mis hermanos queridos, la lucha para que triunfe la Verdad y la Paz en nuestra Amada Patria.

@@ -1,7 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
-import { fechaLarga, slugTema, libroES } from '../../data/sitio';
+import { fechaArticulo, slugTema, libroES } from '../../data/sitio';
 
 export async function getStaticPaths() {
   const articulos = (await getCollection('articulos')).sort((a, b) => a.data.date.valueOf() - b.data.date.valueOf());
@@ -21,7 +21,7 @@ const resumen = (articulo.body ?? '').replace(/\\([*_.#])/g, '$1').split(/\n\s*\
     <header class="cabeza-articulo lectura">
       <p class="etiqueta">{d.tema ? <a href={`/articulos?tema=${slugTema(d.tema)}`}>{d.tema}</a> : 'Artículo'}</p>
       <h1>{d.title}</h1>
-      <p class="meta">María Denisse Fanianos de Capriles · {d.medio}, {fechaLarga(d.date)}</p>
+      <p class="meta">María Denisse Fanianos de Capriles · {[d.medio, fechaArticulo(d)].filter(Boolean).join(', ')}</p>
       <hr class="linea" />
     </header>
     <div class="lectura articulo">

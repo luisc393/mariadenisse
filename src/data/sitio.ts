@@ -58,3 +58,8 @@ export function slugTema(t: string) {
 export function fechaLarga(d: Date) {
   return d.toLocaleDateString('es-VE', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' });
 }
+
+// Fecha que se muestra en el sitio: completa, o solo el año si es aproximada.
+export function fechaArticulo(d: { date: Date; fechaAproximada?: boolean }) {
+  return d.fechaAproximada ? String(d.date.getUTCFullYear()) : fechaLarga(d.date);
+}

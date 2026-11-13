@@ -1,0 +1,23 @@
+---
+title: "Asesinatos en letras pequeñas"
+date: 2012-01-30
+fechaAproximada: true
+libro: false
+# origen: Drive 1uoCIjo4i5hXFlcRGzXNkho8VVCM54M7o
+---
+
+Quedé muy sorprendida al leer el ensayo que ganó el “III Concurso Escolar Metropolitano por los Derechos Humanos”, escrito por una joven de 17 años (Isabel Virginia Alfonzo García) del Colegio Caniguá, Municipio El Hatillo, quien transmite en sus líneas la terrible problemática de la delincuencia que vivimos día a día en el país. El título de dicho ensayo es: “Ahora los encabezados son más pequeños”.
+
+Esta joven señala que “para muchos venezolanos, el día a día ha llegado a constituir el peor de los temores: salimos de nuestros hogares con miedo de no regresar por la inseguridad que impera en las calles. Se le ha rebajado importancia al derecho más importante, el derecho a la vida. ¿Acaso ya no somos seres racionales y conscientes, sino que somos movidos tan sólo por el instinto de supervivencia?... ¿Cómo puede ser que en mi país sea violado de tal manera un derecho tan importante, un derecho que es la base de todos los demás?… Mi padre me cuenta que cuando tenía mi edad, era poco común leer en la prensa sobre el asesinato de una persona y que cuando una desgracia como esta sucedía, por lo general la noticia era merecedora de la primera plana y de un gran encabezado. Ahora, los encabezados son más pequeños y no necesariamente están en primera plana, porque el asesinato de una persona en Venezuela actualmente, no es noticia”.
+
+¡Qué dolor leer esta triste realidad de parte de una joven que apenas comienza la vida! Es aquí cuando uno entiende por qué tantos han salido “escapando” de esta gran tragedia nacional, tragedia que es responsabilidad en primer lugar del estado, presidente y autoridades. Ellos hablan que están haciendo lo posible por resolver el problema, pero lamentablemente vemos que los altos índices de delincuencia continúan.
+
+A continuación Isabel señala en su ensayo: “NO MATARÁS es el quinto mandamiento de la Ley de Dios, nos manda a respetar la vida propia y la ajena, hasta en los más pequeños detalles. La vida humana hay que respetarla porque es sagrada, don de Dios… Lo que no comprendo es, ¿cómo en mi país se atenta a un nivel tan elevado contra la vida de los seres humanos?, ¿cómo es que en mi país MATAN a tantos cuando existen leyes sagradas y humanas que velan por la vida de las personas?... Y ¿a quién culpar? La mayoría de las personas le atribuirían los asesinatos a la ineficacia del gobierno, pero la verdad es que la sociedad venezolana se ha degradado y desvalorizado hasta llegar a los niveles más míseros de calidad humana donde es común matar para obtener bienes materiales como celulares, dándoles un valor impensable, elevadísimo: el valor de una vida humana… Tal vez ¿quién tiene la culpa? no es la pregunta correcta, sino ¿cómo podemos solucionar y cambiar la realidad que estamos afrontando? Porque no es cuestión de plasmar palabras en un papel sino de hacerlas cumplir, ser cada uno de nosotros agentes de cambio, buscando un mejor país, una Venezuela en que los encabezados de asesinatos no sean en letra chiquita, sino en letra grande…”
+
+Pues sí Isabel, la respuesta está en que cada uno de nosotros debemos ser agentes de cambio para lograr un mejor país; pero se debe contar con el apoyo eficiente del estado y sus autoridades porque es una tarea muy ardua la que hay que realizar. Este es un tema donde es vital la unión de todos los sectores del país para poder lograr resultados de base, que incluyan una gran educación para la paz en todos los sectores de la sociedad.
+
+Y a ustedes jóvenes, quienes han vivido tantos problemas que los han hecho madurar, y darse cuenta que sin el compromiso personal y serio por construir un mejor país no vamos a ninguna parte ¡no pierdan las esperanzas! Muchos de ustedes están aquí para formar parte de esa generación de relevo que será la que nos sacará adelante. Por eso es tan importante la participación seria y comprometida de todos en cada acto ciudadano que pueda servir para mejorar el futuro de nuestra nación.
+
+Felicito a los jóvenes promotores de ese concurso (<http://seguridadyderecho.com/organizacion/ddhh>) y a todos los jóvenes venezolanos que están formándose y luchando para que nuestra Patria se encamine hacia la ruta de la Justicia y la Paz ¡Adelante muchachos! ¡El futuro de nuestra Patria está en sus manos!
+
+P.D: El ensayo ganador lo pueden leer en este link de un blog de jóvenes bachilleres quienes promueven la lectura y escritura: <http://escribejoven.blogspot.com/2011/11/ahora-los-encabezados-son-mas-pequenos.html>
