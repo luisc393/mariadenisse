@@ -16,7 +16,7 @@ export const libroES = {
   isbn: '978-980-18-0835-0',
   compra: [
     { tienda: 'Amazon (libro impreso)', url: '' },
-    { tienda: 'Amazon Kindle', url: '' },
+    { tienda: 'Amazon Kindle', url: 'https://www.amazon.com/dp/B083VRRKD1' },
     { tienda: 'Google Play Libros', url: '' },
     { tienda: 'Comprar en Venezuela', url: '' },
   ],

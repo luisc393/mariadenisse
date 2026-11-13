@@ -1,0 +1,43 @@
+---
+import Base from '../layouts/Base.astro';
+import { sobreElla, susArticulos, type Nota } from '../data/prensa';
+import { fechaLarga } from '../data/sitio';
+
+const grupos: { titulo: string; notas: Nota[] }[] = [
+  { titulo: 'Noticias y entrevistas', notas: sobreElla },
+  { titulo: 'Sus artículos en otros medios', notas: susArticulos },
+];
+---
+<Base titulo="Prensa" descripcion="María Denisse Fanianos de Capriles en ACI Prensa, Aleteia, Espacio Público y otros medios.">
+  <section class="seccion">
+    <div class="lectura">
+      <p class="etiqueta">Prensa</p>
+      <h1>En los medios</h1>
+      <hr class="linea" />
+      <p class="intro">Entrevistas, noticias y artículos de María Denisse publicados en otros medios.</p>
+      {grupos.map((g) => (
+        <>
+          <h2>{g.titulo}</h2>
+          <ul class="notas">
+            {g.notas.map((n) => (
+              <li>
+                <p class="meta">{n.medio} · {fechaLarga(new Date(n.fecha))}</p>
+                <a href={n.url} target="_blank" rel="noopener">{n.titulo}</a>
+                <p class="resumen">{n.resumen}</p>
+              </li>
+            ))}
+          </ul>
+        </>
+      ))}
+    </div>
+  </section>
+</Base>
+
+<style>
+  h2 { font-size: 1.45rem; margin-top: 1.6em; }
+  .notas { list-style: none; padding: 0; margin: 0; }
+  .notas li { padding: 18px 0; border-bottom: 1px solid var(--borde); }
+  .notas a { font-family: var(--serif); font-size: 1.15rem; }
+  .meta { margin: 0 0 4px; font-size: .82rem; text-transform: uppercase; letter-spacing: .08em; color: var(--gris); }
+  .resumen { margin: 6px 0 0; color: var(--gris); }
+</style>
