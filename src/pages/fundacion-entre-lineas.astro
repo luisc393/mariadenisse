@@ -9,14 +9,14 @@ import Base from '../layouts/Base.astro';
       <p class="intro"><em>Grandes líneas para una Venezuela mejor</em></p>
       <hr class="linea" />
       <p>
-        María Denisse fundó en 1994, junto a su esposo Luis Felipe Capriles, la Fundación Entre Líneas. Su trabajo: producir
+        María Denisse fundó en 1994, junto a su esposo Luis Felipe Capriles, la <a href="https://venezuelaentrelineas.com" target="_blank" rel="noopener">Fundación Entre Líneas</a>. Su trabajo: producir
         material educativo impreso para los venezolanos, con valores humanos y cristianos, para las familias, los educadores
         y los jóvenes.
       </p>
 
       <h2>El boletín <em>Leer Entre Líneas</em></h2>
       <p>
-        Durante años la fundación publicó el boletín mensual <em>Leer Entre Líneas</em>, con más de 150 números. Se
+        Durante años la fundación publicó el boletín mensual <a href="https://venezuelaentrelineas.com/leer-entrelineas/" target="_blank" rel="noopener"><em>Leer Entre Líneas</em></a>, con más de 150 números. Se
         distribuyó gratis en casi todos los estados del país, hasta que la escasez de papel obligó a detenerlo.
         María Denisse fue su directora y productora.
       </p>
@@ -40,11 +40,16 @@ import Base from '../layouts/Base.astro';
         organizaciones y 600 personas de toda clase social, política, cultural y religiosa, con cobertura de más de 40 medios
         nacionales e internacionales. El objetivo: sembrar esperanza y reconciliación entre los venezolanos.
       </p>
+      <p class="enlaces">
+        <a class="boton" href="https://venezuelaentrelineas.com" target="_blank" rel="noopener">Visitar Venezuela Entre Líneas</a>
+        <a class="boton secundario" href="https://venezuelaentrelineas.com/leer-entrelineas/" target="_blank" rel="noopener">Ver el boletín Leer Entre Líneas</a>
+      </p>
     </div>
   </section>
 </Base>
 
 <style>
+  .enlaces { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 36px; }
   h2 { font-size: 1.45rem; margin-top: 1.6em; }
   blockquote { margin: 24px 0; padding: 20px 24px; background: var(--blanco); border-left: 3px solid var(--oro); font-family: var(--serif); font-size: 1.1rem; font-style: italic; }
   cite { display: block; margin-top: 12px; font-style: normal; font-family: var(--sans); font-size: .9rem; color: var(--gris); }
