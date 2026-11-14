@@ -1,5 +1,5 @@
 ---
-title: "Boat Show\" or \"Food Show\"?"
+title: "\"Boat Show\" or \"Food Show\"?"
 ---
 
 I saw on Twitter that the famous Miami "Boat Show" took place last weekend. It seems some Venezuelans went to enjoy the "wonderful" world of boats. They say that what is on display there, for sale, are luxury speedboats, yachts of every length, catamarans and so on. All the very latest models! A marvelous exhibition showing the boat "of your dreams," so you can sail the paradise beaches of the Caribbean. Oh! And so you can show it to your friends on BlackBerry, Instagram, Twitter or Facebook.

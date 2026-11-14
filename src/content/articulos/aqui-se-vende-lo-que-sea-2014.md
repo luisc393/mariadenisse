@@ -1,5 +1,5 @@
 ---
-title: "Aquí se vende ¡lo que sea!"
+title: "Costura en «revolución»"
 date: 2014-02-19
 medio: "El Universal"
 tema: "Virtudes del venezolano"

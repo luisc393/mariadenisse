@@ -1,5 +1,5 @@
 ---
-title: "Once Again: Show Some Respect, Alberto Cutié!"
+title: "Another Letter to Alberto Cutié"
 ---
 
 Almost two years ago, in this same newspaper, I published an article addressed to Alberto Cutié, a former priest of the Catholic Church who has devoted himself to speaking ill of it. Today I am writing again to ask this gentleman to respect Our Holy Catholic Church and Catholics throughout the world: first, because he is no longer part of it; and second, because he has no moral standing to criticize a Pope like Benedict XVI or to hurl slanders and insults at our priests. Last week he was invited onto Ismael Cala's program on CNN, titled "Road to the Conclave." People expected specialists on the subject, and the conclave was the last thing they talked about. On Twitter many Catholics voiced their displeasure and asked for respect.

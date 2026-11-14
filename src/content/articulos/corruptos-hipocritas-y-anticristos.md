@@ -1,5 +1,5 @@
 ---
-title: "Corruptos: hipócritas y ¡Anticristos!"
+title: "Corrupción y doble vida"
 date: 2013-06-12
 medio: "El Universal"
 libro: false

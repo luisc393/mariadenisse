@@ -1,6 +1,6 @@
 ---
-title: "¿Qué quiere el lobby gay?"
-date: 2016-06-04
+title: "El matrimonio y la familia en el debate de hoy"
+date: 2014-02-12
 fechaAproximada: true
 libro: false
 # origen: Drive 1QV03JauIz6dvtiawVwuK6l3OCmn2f37B

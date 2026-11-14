@@ -1,5 +1,5 @@
 ---
-title: "What Does the Gay Lobby Want?"
+title: "Marriage and Family in Today's Debate"
 ---
 
 Last week a bill was introduced in the National Assembly to legalize homosexual unions as marriage. Hours later I saw the main leaders of the gay lobby in Venezuela attacking each other on Twitter and Facebook, because each claimed to be the one behind this "achievement," or because one had gathered more signatures or more media coverage than the other, and so on. These "leaders" also say Venezuela is living in prehistoric times because it does not allow laws such as abortion laws (where you kill your own child), laws allowing minors to change sex without their parents' permission, laws allowing adoption by homosexual couples, and so on.

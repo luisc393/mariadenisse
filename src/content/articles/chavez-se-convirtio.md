@@ -1,5 +1,5 @@
 ---
-title: "Chávez Has Converted!"
+title: "My Daughters and the President's Communion"
 ---
 
 That was the phrase my daughters (aged 12 and 11) shouted happily when they saw, on television, the President receiving Communion at the Mass celebrated last week by Bishop Mario Moronta at the Military Academy in Caracas.

@@ -1,5 +1,5 @@
 ---
-title: "Condomize Yourself\"?"
+title: "Is the Condom the Only Answer?"
 ---
 
 Last week a friend came to my house who had taken her daughters to a concert by a famous teen singer. She felt cheated, because she had bought (very expensive) tickets to see a music concert and found herself caught up, along with hundreds of children (most of them between 7 and 12), in a campaign that undermined the education many parents have been giving their children. She told me that from the moment they set foot in the venue, dozens of young people were sticking stickers promoting condom use on the children. They did it while repeating phrases like "Think about your future: Condomize!" and "Save the world: Condomize!" Before the concert they showed a silent video of couples (in every possible combination) with big smiles on their faces. An image of a cross also appeared, and they showed a banana having a condom put on it. When the concert ended, they threw hundreds of condoms to the children, who asked: "What's this, Mommy?"

@@ -1,5 +1,5 @@
 ---
-title: "¡Chávez se convirtió!"
+title: "Mis hijas y la comunión del Presidente"
 date: 2011-07-15
 fechaAproximada: true
 libro: false
@@ -18,7 +18,7 @@ Unido a eso ellas saben (porque tienen poco tiempo de haber recibido su Primera 
 
 Entonces ellas estaban ¡Felices! porque ¡Al fin! el Presidente, por quien habían rezado tanto, se había convertido, porque comulgó frente al mundo entero. Y es que esa fue la gran noticia del día en muchos medios nacionales e internacionales.
 
-Yo tengo una gran fe que los pastores que guiaron a nuestro Presidente a recibir estos sacramentos lo ayudaron en su debida preaparación que incluye Yo tengo clarito que nadie puede saber, ni juzgar, el estado espiritual de nadie (eso sólo lo sabe Dios). Quienes somos católicos sabemos que la conversión es un proceso complejo que lleva su tiempo y sabemos, además, que la enfermedad muchas veces es ese regalo que Dios nos manda (como dije en un artículo anterior) para que nos acerquemos a Él, podamos pedir perdón por nuestro errores pasados y seguir adelante con la fortaleza que sólo la gracia de Dios puede dar.
+Yo tengo una gran fe que los pastores que guiaron a nuestro Presidente a recibir estos sacramentos lo ayudaron en su debida preparación. Yo tengo clarito que nadie puede saber, ni juzgar, el estado espiritual de nadie (eso sólo lo sabe Dios). Quienes somos católicos sabemos que la conversión es un proceso complejo que lleva su tiempo y sabemos, además, que la enfermedad muchas veces es ese regalo que Dios nos manda (como dije en un artículo anterior) para que nos acerquemos a Él, podamos pedir perdón por nuestro errores pasados y seguir adelante con la fortaleza que sólo la gracia de Dios puede dar.
 
 Y como el Presidente quiso mostrarle al mundo entero, a través de los medios, su acercamiento a la Iglesia, a través de sus sacramentos, entonces yo como su hermana católica que soy (y que además rezo mucho por su salud física y espiritual) le pido que demuestre su acercamiento a nuestra Iglesia pidiendo perdón públicamente por tantas injurias y ofensas contra nuestra Santa Iglesia Católica y muchos de nuestros ejemplares pastores, vivos y muertos. Y que además muestre su misericordia con TODOS sus hermanos venezolanos, en especial con esos presos que están sufriendo un cáncer como el suyo, y que con sólo una llamada puede cambiarles su vida.
 

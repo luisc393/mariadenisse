@@ -1,5 +1,5 @@
 ---
-title: "Miss Venezuela y los transexuales"
+title: "Miss Venezuela y el debate sobre la identidad de género"
 date: 2012-04-30
 fechaAproximada: true
 libro: false

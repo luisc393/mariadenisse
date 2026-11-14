@@ -1,5 +1,5 @@
 ---
-title: "¿Condonízate?"
+title: "¿La respuesta es solo el condón?"
 date: 2011-05-24
 medio: "El Universal"
 fechaAproximada: true

@@ -1,5 +1,5 @@
 ---
-title: "Nuevamente ¡Respete! Alberto Cutié"
+title: "Otra carta a Alberto Cutié"
 date: 2013-03-04
 fechaAproximada: true
 libro: false

@@ -1,5 +1,5 @@
 ---
-title: "Artículo del 26 de junio de 2013"
+title: "¿Cómo acabar con el odio?"
 date: 2013-06-26
 medio: "El Universal"
 tema: "Virtudes del venezolano"

@@ -1,5 +1,5 @@
 ---
-title: "Miss Venezuela and Transgender Contestants"
+title: "Miss Venezuela and the Gender Identity Debate"
 ---
 
 Last week, at a press conference held by the Miss Venezuela organization, Osmel Sousa addressed the controversy stirred up by some people after Miss Canada accepted a transgender contestant. He said it would be disrespectful to allow transgender women to take part in Miss Venezuela, and that the Venezuelan people would not accept transgender contestants in the pageant, either now or for a long time.

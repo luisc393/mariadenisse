@@ -1,5 +1,5 @@
 ---
-title: "The Corrupt: Hypocrites and Antichrists!"
+title: "Corruption and Double Lives"
 ---
 
 Last week Pope Francis, in his daily homilies at the Casa Santa Marta, spoke two days in a row about the corrupt. His words were really harsh. I hope the corrupt people scattered across Venezuela and the whole world (every day there are more of them, and more shameless!), especially those who claim to be Christians, will read his words, to see whether they can recognize their sins and leave the world that turns them into nothing more and nothing less than Antichrists!
